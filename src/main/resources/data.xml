@@ -1,0 +1,49 @@
+<er>
+    <er_date>d1</er_date>
+    <er_num>num_1</er_num>
+    <member>
+        <m_no>
+        mem_1
+        </m_no>
+        <m_work XSI:NIL="TRUE"/>
+        <contribution>
+            <c_data>contribution_1</c_data>
+        </contribution>    
+        <contribution>
+			<c_data>contribution_2</c_data>
+        </contribution>    
+    </member>
+    
+    <member>
+        <m_no>
+        mem_2
+        </m_no>
+        <m_work>
+        	mason
+         </m_work>
+        <contribution>
+            <c_data>contribution_1</c_data>
+        </contribution>    
+        <contribution>
+			<c_data>contribution_2</c_data>
+        </contribution>    
+    </member>
+    
+    <member>
+        <m_no>
+        mem_3
+        </m_no>
+        <m_work>
+        	carpenter
+         </m_work>
+        <contribution>
+            <c_data>contribution_1</c_data>
+        </contribution>    
+        <contribution>
+			<c_data>contribution_2</c_data>
+        </contribution>    
+        <contribution>
+			<c_data>contribution_3</c_data>
+        </contribution>    
+    </member>
+</er>

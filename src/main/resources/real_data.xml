@@ -1,0 +1,1666 @@
+<PARENT>
+<HEADER>        
+<SENDERID>DEX</SENDERID>        
+<RECIPIENTID>MPFA</RECIPIENTID>        
+<MESSAGETYPE>OSDC</MESSAGETYPE>        
+<VERSIONNUMBER>3.1</VERSIONNUMBER>        
+<MESSAGEREFERENCE>DEXSK2000041</MESSAGEREFERENCE>        
+<TIMESTAMP>20180418000000</TIMESTAMP>    
+</HEADER>    
+<GENERALPARTICULARS>        
+<SUBMISSIONTYPE>NEWD</SUBMISSIONTYPE>        
+<DATARETRIEVALDATE>2018-04-18</DATARETRIEVALDATE>        
+<TRUSTEEAPPROVALNUMBER>TC00138</TRUSTEEAPPROVALNUMBER>        
+<REMARKS XSI:NIL="TRUE"/>   
+</GENERALPARTICULARS>    
+<ER>        
+<MPFAREFNO XSI:NIL="TRUE"/>        
+<PARTICIPATIONNO>BR7680132332</PARTICIPATIONNO>        
+<DEFAULTERNAME LANG="EN">            
+<NAME>NTXELD AXEXPFOU</NAME>        
+</DEFAULTERNAME>        
+<DEFAULTERNAME LANG="CH">            
+<NAME>PHNNQAM</NAME>        
+</DEFAULTERNAME>        
+<DEFAULTERCONTACTPERSON LANG="EN">            
+<NAME>TXEOQGKRVCBKH </NAME>        
+</DEFAULTERCONTACTPERSON>        
+<DEFAULTERCONTACTPERSON LANG="CH">            
+<NAME> </NAME>        
+</DEFAULTERCONTACTPERSON>        
+<AUTHORIZEDPERSON XSI:NIL="TRUE"/>        
+<PHONENOREGIONALCODE XSI:NIL="TRUE"/>        
+<PHONENOAREACODE XSI:NIL="TRUE"/>        
+<PHONENO>20000000</PHONENO>        
+<FAXNOREGIONALCODE XSI:NIL="TRUE"/>        
+<FAXNOAREACODE XSI:NIL="TRUE"/>        
+<FAXNO>20000000</FAXNO>        
+<ADDRESS1>AVGKATQQQ</ADDRESS1>        
+<ADDRESS2>RCJMZGBDTSHPXAG</ADDRESS2>        
+<ADDRESS3>KJC</ADDRESS3>        
+<ADDRESS4 XSI:NIL="TRUE"/>        
+<ADDRESS5 XSI:NIL="TRUE"/>        
+<EMAIL>UTN@BESTSERVE.COM</EMAIL>        
+<SCHEMEREGISTRATIONNO>ES00020</SCHEMEREGISTRATIONNO>        
+<SUBSCHEMENUMBER>8728</SUBSCHEMENUMBER>        
+<SUBSCHEMESERVICEOFFICERNAME XSI:NIL="TRUE"/>        
+<SUBSCHEMESERVICEOFFICERPHONE XSI:NIL="TRUE"/>        
+<INDUSTRYTYPE>99</INDUSTRYTYPE>        
+<UNTRACEABLEDEFAULTER>N</UNTRACEABLEDEFAULTER>        
+<CHANGEOFDEFAULTERNAME XSI:NIL="TRUE"/>        
+<ORIGINALDEFAULTERNAME LANG="EN">            
+<NAME XSI:NIL="TRUE"/>        
+</ORIGINALDEFAULTERNAME>        
+<ORIGINALDEFAULTERNAME LANG="CH">            
+<NAME XSI:NIL="TRUE"/>        
+</ORIGINALDEFAULTERNAME>        
+<NOOFENROLLEDMEMBERS>4215</NOOFENROLLEDMEMBERS>        
+<SCHEMEEFFECTIVEDATE>2006-10-19</SCHEMEEFFECTIVEDATE>        
+<SCHEMETERMINATIONDATE XSI:NIL="TRUE"/>        
+<REMARKS>8728</REMARKS>        
+<MEMBER>            
+<IDENTITY>                
+<HKID>                    
+<HKIDNUMBER>J458202</HKIDNUMBER>                    
+<CHECKDIGIT>8</CHECKDIGIT>                
+</HKID>            
+</IDENTITY>            
+<MEMBERUNIQUEREFNO>SHK-86348</MEMBERUNIQUEREFNO>            
+<MEMBERNAME LANG="EN">                
+<LASTNAME>ZEX</LASTNAME>                
+<FIRSTNAME>CD FAL</FIRSTNAME>            
+</MEMBERNAME>            
+<MEMBERNAME LANG="CH">                
+<LASTNAME>IM</LASTNAME>                
+<FIRSTNAME>E</FIRSTNAME>            
+</MEMBERNAME>            
+<DATEOFBIRTH>1972-08-18</DATEOFBIRTH>            
+<MOBILENO>90000000</MOBILENO>            
+<PHONENO XSI:NIL="TRUE"/>            
+<ADDRESS1>HKLMOJERX</ADDRESS1>            
+<ADDRESS2>NAJCHVNVBPDRCY</ADDRESS2>            
+<ADDRESS3>FZMRJOPVCUJYSD</ADDRESS3>            
+<ADDRESS4>EFCKUZMMKLSKZNYM</ADDRESS4>            
+<ADDRESS5 XSI:NIL="TRUE"/>            
+<NATUREOFEMPLOYMENT>REGEE</NATUREOFEMPLOYMENT>            
+<EMPLOYMENTSTARTDATE>2007-05-21</EMPLOYMENTSTARTDATE>            
+<LASTEMPLOYMENTDATE XSI:NIL="TRUE"/>            
+<INTRAGROUPTRANSFER>N</INTRAGROUPTRANSFER>            
+<LATEENROLLEDMEMBER>N</LATEENROLLEDMEMBER>            
+<ENROLLMENTPROCESSINGDATE>2007-08-29</ENROLLMENTPROCESSINGDATE>            
+<REMARKS XSI:NIL="TRUE"/>            
+<CONTRIBUTION>                
+<PERIODSTARTDATE>2018-03-01</PERIODSTARTDATE>                
+<PERIODENDDATE>2018-03-31</PERIODENDDATE>                
+<RELEVANTINCOME>56925.60</RELEVANTINCOME>                
+<RELEVANTINCOMEREF XSI:NIL="TRUE"/>                
+<ONTIMEMCPAID>                    
+<ONTIMEMCPAIDAMOUNT TYPE="ERSEP">                        
+<AMOUNT>0.00</AMOUNT>                    
+</ONTIMEMCPAIDAMOUNT>                    
+<ONTIMEMCPAIDAMOUNT TYPE="EE">                        
+<AMOUNT>0.00</AMOUNT>                    
+</ONTIMEMCPAIDAMOUNT>                    
+<ONTIMEMCPAIDDATE XSI:NIL="TRUE"/>                
+</ONTIMEMCPAID>                
+<LATEMCPAID>                    
+<LATEMCPAIDAMOUNT TYPE="ERSEP">                        
+<AMOUNT>0.00</AMOUNT>                    
+</LATEMCPAIDAMOUNT>                    
+<LATEMCPAIDAMOUNT TYPE="EE">                        
+<AMOUNT>0.00</AMOUNT>                    
+</LATEMCPAIDAMOUNT>                    
+<LATEMCPAIDDATE XSI:NIL="TRUE"/>                
+</LATEMCPAID>                
+<SURCHARGEPAID>                    
+<SURCHARGEPAIDAMOUNT TYPE="ERSEP">                        
+<AMOUNT>0.00</AMOUNT>                    
+</SURCHARGEPAIDAMOUNT>                    
+<SURCHARGEPAIDAMOUNT TYPE="EE">                        
+<AMOUNT>0.00</AMOUNT>                    
+</SURCHARGEPAIDAMOUNT>                    
+<SURCHARGEPAIDDATE XSI:NIL="TRUE"/>                
+</SURCHARGEPAID>                
+<FREQUENCY>CDMTH</FREQUENCY>                
+<DCREASON>NOPAY</DCREASON>                
+<ISUNIQUEREFNO XSI:NIL="TRUE"/>                
+<ISNODAYS XSI:NIL="TRUE"/>                
+<ISDATERANGEFROM XSI:NIL="TRUE"/>                
+<ISDATERANGETO XSI:NIL="TRUE"/>                
+<REMARKS XSI:NIL="TRUE"/>            
+</CONTRIBUTION>       
+</MEMBER>        
+<MEMBER>            
+<IDENTITY>                
+<HKID>                    
+<HKIDNUMBER>W595352</HKIDNUMBER>                    
+<CHECKDIGIT>1</CHECKDIGIT>                
+</HKID>            
+</IDENTITY>            
+<MEMBERUNIQUEREFNO>SHK-742886</MEMBERUNIQUEREFNO>            
+<MEMBERNAME LANG="EN">                
+<LASTNAME>MJAN</LASTNAME>                
+<FIRSTNAME>FMAZ BMJAX BXJUAR</FIRSTNAME>            
+</MEMBERNAME>            
+<MEMBERNAME LANG="CH">                
+<LASTNAME>UQ</LASTNAME>                
+<FIRSTNAME>K</FIRSTNAME>            
+</MEMBERNAME>            
+<DATEOFBIRTH>1984-01-25</DATEOFBIRTH>            
+<MOBILENO>60000000</MOBILENO>            
+<PHONENO XSI:NIL="TRUE"/>            
+<ADDRESS1>FJIRCIUNIPSEJAFPGWU</ADDRESS1>            
+<ADDRESS2>PJGWRIHZZXBIKF</ADDRESS2>            
+<ADDRESS3>VBWXPSCOSXDQBUBT</ADDRESS3>            
+<ADDRESS4>ITKHXIKARAJTZTK</ADDRESS4>            
+<ADDRESS5 XSI:NIL="TRUE"/>            
+<NATUREOFEMPLOYMENT>REGEE</NATUREOFEMPLOYMENT>            
+<EMPLOYMENTSTARTDATE>2006-11-15</EMPLOYMENTSTARTDATE>            
+<LASTEMPLOYMENTDATE XSI:NIL="TRUE"/>            
+<INTRAGROUPTRANSFER>Y</INTRAGROUPTRANSFER>            
+<LATEENROLLEDMEMBER>N</LATEENROLLEDMEMBER>            
+<ENROLLMENTPROCESSINGDATE>2007-01-23</ENROLLMENTPROCESSINGDATE>            
+<REMARKS XSI:NIL="TRUE"/>            
+<CONTRIBUTION>                
+<PERIODSTARTDATE>2018-03-01</PERIODSTARTDATE>                
+<PERIODENDDATE>2018-03-31</PERIODENDDATE>                
+<RELEVANTINCOME>26824.60</RELEVANTINCOME>                
+<RELEVANTINCOMEREF XSI:NIL="TRUE"/>                
+<ONTIMEMCPAID>                    
+<ONTIMEMCPAIDAMOUNT TYPE="ERSEP">                        
+<AMOUNT>0.00</AMOUNT>                    
+</ONTIMEMCPAIDAMOUNT>                    
+<ONTIMEMCPAIDAMOUNT TYPE="EE">                        
+<AMOUNT>0.00</AMOUNT>                    
+</ONTIMEMCPAIDAMOUNT>                    
+
+<ONTIMEMCPAIDDATE XSI:NIL="TRUE"/>                
+</ONTIMEMCPAID>                
+<LATEMCPAID>                    
+<LATEMCPAIDAMOUNT TYPE="ERSEP">                        
+<AMOUNT>0.00</AMOUNT>                    
+</LATEMCPAIDAMOUNT>                    
+<LATEMCPAIDAMOUNT TYPE="EE">                        
+<AMOUNT>0.00</AMOUNT>                    
+</LATEMCPAIDAMOUNT>                    
+<LATEMCPAIDDATE XSI:NIL="TRUE"/>                
+</LATEMCPAID>                
+<SURCHARGEPAID>                    
+<SURCHARGEPAIDAMOUNT TYPE="ERSEP">                        
+<AMOUNT>0.00</AMOUNT>                    
+</SURCHARGEPAIDAMOUNT>                    
+<SURCHARGEPAIDAMOUNT TYPE="EE">                        
+<AMOUNT>0.00</AMOUNT>                    
+</SURCHARGEPAIDAMOUNT>                    
+<SURCHARGEPAIDDATE XSI:NIL="TRUE"/>                
+</SURCHARGEPAID>                
+<FREQUENCY>CDMTH</FREQUENCY>                
+<DCREASON>NOPAY</DCREASON>                
+<ISUNIQUEREFNO XSI:NIL="TRUE"/>                
+<ISNODAYS XSI:NIL="TRUE"/>                
+<ISDATERANGEFROM XSI:NIL="TRUE"/>                
+<ISDATERANGETO XSI:NIL="TRUE"/>                
+<REMARKS XSI:NIL="TRUE"/>            
+</CONTRIBUTION>        
+</MEMBER>        
+<MEMBER>            
+<IDENTITY>                
+<HKID>                    
+<HKIDNUMBER>Y380240</HKIDNUMBER>                    
+<CHECKDIGIT>8</CHECKDIGIT>                
+</HKID>            
+</IDENTITY>            
+<MEMBERUNIQUEREFNO>SHK-7422613</MEMBERUNIQUEREFNO>            
+<MEMBERNAME LANG="EN">                
+<LASTNAME>MJZFBA</LASTNAME>                
+<FIRSTNAME>XD ZXWBA</FIRSTNAME>            
+</MEMBERNAME>            
+<MEMBERNAME LANG="CH">                
+<LASTNAME XSI:NIL="TRUE"/>                
+<FIRSTNAME XSI:NIL="TRUE"/>            
+</MEMBERNAME>            
+<DATEOFBIRTH>1980-12-31</DATEOFBIRTH>            
+<MOBILENO XSI:NIL="TRUE"/>            
+<PHONENO XSI:NIL="TRUE"/>            
+<ADDRESS1>UNKNOWN</ADDRESS1>            
+<ADDRESS2 XSI:NIL="TRUE"/>            
+<ADDRESS3 XSI:NIL="TRUE"/>            
+<ADDRESS4 XSI:NIL="TRUE"/>            
+<ADDRESS5 XSI:NIL="TRUE"/>            
+<NATUREOFEMPLOYMENT>REGEE</NATUREOFEMPLOYMENT>            
+<EMPLOYMENTSTARTDATE>2017-12-06</EMPLOYMENTSTARTDATE>            
+<LASTEMPLOYMENTDATE XSI:NIL="TRUE"/>            
+<INTRAGROUPTRANSFER>N</INTRAGROUPTRANSFER>            
+<LATEENROLLEDMEMBER>N</LATEENROLLEDMEMBER>            
+<REMARKS XSI:NIL="TRUE"/>            
+<CONTRIBUTION>                
+<PERIODSTARTDATE>2018-03-01</PERIODSTARTDATE>                
+<PERIODENDDATE>2018-03-31</PERIODENDDATE>                
+<RELEVANTINCOME>18942.79</RELEVANTINCOME>                
+<RELEVANTINCOMEREF XSI:NIL="TRUE"/>                
+<ONTIMEMCPAID>                    
+<ONTIMEMCPAIDAMOUNT TYPE="ERSEP">                        
+<AMOUNT>0.00</AMOUNT>                    
+</ONTIMEMCPAIDAMOUNT>                    
+<ONTIMEMCPAIDAMOUNT TYPE="EE">                        
+<AMOUNT>0.00</AMOUNT>                    
+</ONTIMEMCPAIDAMOUNT>                    
+<ONTIMEMCPAIDDATE XSI:NIL="TRUE"/>                
+</ONTIMEMCPAID>                
+<LATEMCPAID>                    
+<LATEMCPAIDAMOUNT TYPE="ERSEP">                        
+<AMOUNT>0.00</AMOUNT>                    
+</LATEMCPAIDAMOUNT>                    
+<LATEMCPAIDAMOUNT TYPE="EE">                        
+<AMOUNT>0.00</AMOUNT>                    
+</LATEMCPAIDAMOUNT>                    
+<LATEMCPAIDDATE XSI:NIL="TRUE"/>                
+</LATEMCPAID>                
+<SURCHARGEPAID>                    
+<SURCHARGEPAIDAMOUNT TYPE="ERSEP">                        
+<AMOUNT>0.00</AMOUNT>                    
+</SURCHARGEPAIDAMOUNT>                   
+
+ <SURCHARGEPAIDAMOUNT TYPE="EE">                        
+ <AMOUNT>0.00</AMOUNT>                    
+ </SURCHARGEPAIDAMOUNT>                    
+<SURCHARGEPAIDDATE XSI:NIL="TRUE"/>                
+</SURCHARGEPAID>                
+<FREQUENCY>CDMTH</FREQUENCY>                
+<DCREASON>NOPAY</DCREASON>                
+<ISUNIQUEREFNO XSI:NIL="TRUE"/>                
+<ISNODAYS XSI:NIL="TRUE"/>                
+<ISDATERANGEFROM XSI:NIL="TRUE"/>                
+<ISDATERANGETO XSI:NIL="TRUE"/>                
+<REMARKS XSI:NIL="TRUE"/>            
+</CONTRIBUTION>            
+<CONTRIBUTION>                
+<PERIODSTARTDATE>2018-02-01</PERIODSTARTDATE>                
+<PERIODENDDATE>2018-02-28</PERIODENDDATE>                
+<RELEVANTINCOME XSI:NIL="TRUE"/>                
+<RELEVANTINCOMEREF>NA</RELEVANTINCOMEREF>                
+<ONTIMEMCPAID>                    
+<ONTIMEMCPAIDAMOUNT TYPE="ERSEP">                        
+<AMOUNT>0.00</AMOUNT>                    
+</ONTIMEMCPAIDAMOUNT>                    
+<ONTIMEMCPAIDAMOUNT TYPE="EE">                        
+<AMOUNT>0.00</AMOUNT>                    
+</ONTIMEMCPAIDAMOUNT>                    
+<ONTIMEMCPAIDDATE XSI:NIL="TRUE"/>                
+</ONTIMEMCPAID>                
+<LATEMCPAID>                    
+<LATEMCPAIDAMOUNT TYPE="ERSEP">                        
+<AMOUNT>0.00</AMOUNT>                    
+</LATEMCPAIDAMOUNT>                    
+<LATEMCPAIDAMOUNT TYPE="EE">                        
+<AMOUNT>0.00</AMOUNT>                    
+</LATEMCPAIDAMOUNT>                    
+<LATEMCPAIDDATE XSI:NIL="TRUE"/>                
+</LATEMCPAID>                
+<SURCHARGEPAID>                    
+<SURCHARGEPAIDAMOUNT TYPE="ERSEP">                        
+<AMOUNT>0.00</AMOUNT>                    
+</SURCHARGEPAIDAMOUNT>                    
+<SURCHARGEPAIDAMOUNT TYPE="EE">                        
+<AMOUNT>0.00</AMOUNT>                    
+</SURCHARGEPAIDAMOUNT>                    
+<SURCHARGEPAIDDATE XSI:NIL="TRUE"/>                
+</SURCHARGEPAID>                
+<FREQUENCY>CDMTH</FREQUENCY>                
+<DCREASON>NOPAY</DCREASON>                
+<ISUNIQUEREFNO XSI:NIL="TRUE"/>                
+<ISNODAYS XSI:NIL="TRUE"/>                
+<ISDATERANGEFROM XSI:NIL="TRUE"/>                
+<ISDATERANGETO XSI:NIL="TRUE"/>                
+<REMARKS XSI:NIL="TRUE"/>            
+</CONTRIBUTION>        
+</MEMBER>        
+<MEMBER>            
+<IDENTITY>                
+<HKID>                    
+<HKIDNUMBER>I323729</HKIDNUMBER>                    
+<CHECKDIGIT>4</CHECKDIGIT>                
+</HKID>            
+</IDENTITY>            
+<MEMBERUNIQUEREFNO>SHK-7258400</MEMBERUNIQUEREFNO>            
+<MEMBERNAME LANG="EN">                
+<LASTNAME>MCANB</LASTNAME>                
+<FIRSTNAME>ZMRXZ</FIRSTNAME>            
+</MEMBERNAME>            
+<MEMBERNAME LANG="CH">                
+<LASTNAME XSI:NIL="TRUE"/>                
+<FIRSTNAME XSI:NIL="TRUE"/>            
+</MEMBERNAME>            
+<DATEOFBIRTH>1980-12-31</DATEOFBIRTH>            
+<MOBILENO XSI:NIL="TRUE"/>            
+<PHONENO XSI:NIL="TRUE"/>            
+<ADDRESS1>UNKNOWN</ADDRESS1>            
+<ADDRESS2 XSI:NIL="TRUE"/>            
+<ADDRESS3 XSI:NIL="TRUE"/>            
+<ADDRESS4 XSI:NIL="TRUE"/>            
+<ADDRESS5 XSI:NIL="TRUE"/>            
+<NATUREOFEMPLOYMENT>REGEE</NATUREOFEMPLOYMENT>            
+<EMPLOYMENTSTARTDATE>2018-01-18</EMPLOYMENTSTARTDATE>            
+<LASTEMPLOYMENTDATE XSI:NIL="TRUE"/>            
+<INTRAGROUPTRANSFER>N</INTRAGROUPTRANSFER>            
+<LATEENROLLEDMEMBER>N</LATEENROLLEDMEMBER>            
+<REMARKS XSI:NIL="TRUE"/>            
+<CONTRIBUTION>                
+<PERIODSTARTDATE>2018-03-01</PERIODSTARTDATE>                
+<PERIODENDDATE>2018-03-31</PERIODENDDATE>                
+<RELEVANTINCOME>12623.63</RELEVANTINCOME>                
+<RELEVANTINCOMEREF XSI:NIL="TRUE"/>                
+<ONTIMEMCPAID>                    
+<ONTIMEMCPAIDAMOUNT TYPE="ERSEP">                        
+<AMOUNT>0.00</AMOUNT>                    
+</ONTIMEMCPAIDAMOUNT>                    
+<ONTIMEMCPAIDAMOUNT TYPE="EE">                        
+<AMOUNT>0.00</AMOUNT>                    
+</ONTIMEMCPAIDAMOUNT>                    
+<ONTIMEMCPAIDDATE XSI:NIL="TRUE"/>                
+</ONTIMEMCPAID>                
+<LATEMCPAID>                    
+<LATEMCPAIDAMOUNT TYPE="ERSEP">                        
+<AMOUNT>0.00</AMOUNT>                    
+</LATEMCPAIDAMOUNT>                    
+<LATEMCPAIDAMOUNT TYPE="EE">                        
+<AMOUNT>0.00</AMOUNT>                    
+</LATEMCPAIDAMOUNT>                    
+<LATEMCPAIDDATE XSI:NIL="TRUE"/>                
+</LATEMCPAID>                
+<SURCHARGEPAID>                    
+<SURCHARGEPAIDAMOUNT TYPE="ERSEP">                        
+<AMOUNT>0.00</AMOUNT>                    
+</SURCHARGEPAIDAMOUNT>                    
+<SURCHARGEPAIDAMOUNT TYPE="EE">                        
+<AMOUNT>0.00</AMOUNT>                    
+</SURCHARGEPAIDAMOUNT>                    
+<SURCHARGEPAIDDATE XSI:NIL="TRUE"/>                
+</SURCHARGEPAID>                
+<FREQUENCY>CDMTH</FREQUENCY>                
+<DCREASON>NOPAY</DCREASON>                
+<ISUNIQUEREFNO XSI:NIL="TRUE"/>                
+<ISNODAYS XSI:NIL="TRUE"/>                
+<ISDATERANGEFROM XSI:NIL="TRUE"/>                
+<ISDATERANGETO XSI:NIL="TRUE"/>                
+<REMARKS XSI:NIL="TRUE"/>            
+</CONTRIBUTION>            
+<CONTRIBUTION>                
+<PERIODSTARTDATE>2018-01-01</PERIODSTARTDATE>                
+<PERIODENDDATE>2018-01-31</PERIODENDDATE>                
+<RELEVANTINCOME XSI:NIL="TRUE"/>                
+<RELEVANTINCOMEREF>NA</RELEVANTINCOMEREF>                
+<ONTIMEMCPAID>                    
+<ONTIMEMCPAIDAMOUNT TYPE="ERSEP">                        
+<AMOUNT>0.00</AMOUNT>                    
+</ONTIMEMCPAIDAMOUNT>                    
+<ONTIMEMCPAIDAMOUNT TYPE="EE">                        
+<AMOUNT>0.00</AMOUNT>                    
+</ONTIMEMCPAIDAMOUNT>                    
+<ONTIMEMCPAIDDATE XSI:NIL="TRUE"/>                
+</ONTIMEMCPAID>                
+<LATEMCPAID>                    
+<LATEMCPAIDAMOUNT TYPE="ERSEP">                        
+<AMOUNT>0.00</AMOUNT>                    
+</LATEMCPAIDAMOUNT>                    
+<LATEMCPAIDAMOUNT TYPE="EE">                        
+<AMOUNT>0.00</AMOUNT>                    
+</LATEMCPAIDAMOUNT>                    
+<LATEMCPAIDDATE XSI:NIL="TRUE"/>                
+</LATEMCPAID>                
+<SURCHARGEPAID>                    
+<SURCHARGEPAIDAMOUNT TYPE="ERSEP">                        
+<AMOUNT>0.00</AMOUNT>                    
+</SURCHARGEPAIDAMOUNT>                    
+<SURCHARGEPAIDAMOUNT TYPE="EE">                        
+<AMOUNT>0.00</AMOUNT>                    
+</SURCHARGEPAIDAMOUNT>                    
+<SURCHARGEPAIDDATE XSI:NIL="TRUE"/>                
+</SURCHARGEPAID>               
+ <FREQUENCY>CDMTH</FREQUENCY>                
+ <DCREASON>NOPAY</DCREASON>                
+<ISUNIQUEREFNO XSI:NIL="TRUE"/>                
+<ISNODAYS XSI:NIL="TRUE"/>                
+<ISDATERANGEFROM XSI:NIL="TRUE"/>                
+<ISDATERANGETO XSI:NIL="TRUE"/>                
+<REMARKS XSI:NIL="TRUE"/>            
+</CONTRIBUTION>            
+<CONTRIBUTION>                
+<PERIODSTARTDATE>2018-02-01</PERIODSTARTDATE>                
+<PERIODENDDATE>2018-02-28</PERIODENDDATE>                
+<RELEVANTINCOME XSI:NIL="TRUE"/>                
+<RELEVANTINCOMEREF>NA</RELEVANTINCOMEREF>                
+<ONTIMEMCPAID>                    
+<ONTIMEMCPAIDAMOUNT TYPE="ERSEP">                        
+<AMOUNT>0.00</AMOUNT>                    
+</ONTIMEMCPAIDAMOUNT>                    
+<ONTIMEMCPAIDAMOUNT TYPE="EE">                        
+<AMOUNT>0.00</AMOUNT>                    
+</ONTIMEMCPAIDAMOUNT>                    
+<ONTIMEMCPAIDDATE XSI:NIL="TRUE"/>                
+</ONTIMEMCPAID>                
+<LATEMCPAID>                    
+<LATEMCPAIDAMOUNT TYPE="ERSEP">                        
+<AMOUNT>0.00</AMOUNT>                    
+</LATEMCPAIDAMOUNT>                    
+<LATEMCPAIDAMOUNT TYPE="EE">                        
+<AMOUNT>0.00</AMOUNT>                    
+</LATEMCPAIDAMOUNT>                    
+<LATEMCPAIDDATE XSI:NIL="TRUE"/>                
+</LATEMCPAID>                
+<SURCHARGEPAID>                    
+<SURCHARGEPAIDAMOUNT TYPE="ERSEP">                        
+<AMOUNT>0.00</AMOUNT>                    
+</SURCHARGEPAIDAMOUNT>                    
+<SURCHARGEPAIDAMOUNT TYPE="EE">                        
+<AMOUNT>0.00</AMOUNT>                    
+</SURCHARGEPAIDAMOUNT>                    
+<SURCHARGEPAIDDATE XSI:NIL="TRUE"/>                
+</SURCHARGEPAID>                
+<FREQUENCY>CDMTH</FREQUENCY>                
+<DCREASON>NOPAY</DCREASON>                
+<ISUNIQUEREFNO XSI:NIL="TRUE"/>                
+<ISNODAYS XSI:NIL="TRUE"/>                
+<ISDATERANGEFROM XSI:NIL="TRUE"/>                
+<ISDATERANGETO XSI:NIL="TRUE"/>                
+<REMARKS XSI:NIL="TRUE"/>            
+</CONTRIBUTION>        
+</MEMBER>        
+<MEMBER>            
+<IDENTITY>                
+<HKID>                    
+<HKIDNUMBER>Z412060</HKIDNUMBER>                    
+<CHECKDIGIT>5</CHECKDIGIT>                
+</HKID>            
+</IDENTITY>            
+<MEMBERUNIQUEREFNO>SHK-34518</MEMBERUNIQUEREFNO>            
+<MEMBERNAME LANG="EN">                
+<LASTNAME>LVBA</LASTNAME>                
+<FIRSTNAME>DO CNMBA</FIRSTNAME>            
+</MEMBERNAME>            
+<MEMBERNAME LANG="CH">                
+<LASTNAME>TA</LASTNAME>                
+<FIRSTNAME>I</FIRSTNAME>            
+</MEMBERNAME>            
+<DATEOFBIRTH>1981-07-30</DATEOFBIRTH>            
+<MOBILENO>60000000</MOBILENO>            
+<PHONENO XSI:NIL="TRUE"/>            
+<ADDRESS1>RVTUKC</ADDRESS1>            
+<ADDRESS2>UEHVTXEVIP</ADDRESS2>            
+<ADDRESS3>MBOPVSGVOEVH</ADDRESS3>            
+<ADDRESS4>KPUCYMDRMQZ</ADDRESS4>            
+<ADDRESS5 XSI:NIL="TRUE"/>            
+<NATUREOFEMPLOYMENT>REGEE</NATUREOFEMPLOYMENT>            
+<EMPLOYMENTSTARTDATE>2008-02-25</EMPLOYMENTSTARTDATE>            
+<LASTEMPLOYMENTDATE XSI:NIL="TRUE"/>            
+<INTRAGROUPTRANSFER>N</INTRAGROUPTRANSFER>            
+<LATEENROLLEDMEMBER>N</LATEENROLLEDMEMBER>            
+<ENROLLMENTPROCESSINGDATE>2008-05-06</ENROLLMENTPROCESSINGDATE>            
+<REMARKS XSI:NIL="TRUE"/>            
+<CONTRIBUTION>                
+<PERIODSTARTDATE>2018-03-01</PERIODSTARTDATE>                
+<PERIODENDDATE>2018-03-31</PERIODENDDATE>                
+<RELEVANTINCOME>24538.20</RELEVANTINCOME>                
+<RELEVANTINCOMEREF XSI:NIL="TRUE"/>                
+<ONTIMEMCPAID>                    
+<ONTIMEMCPAIDAMOUNT TYPE="ERSEP">                        
+<AMOUNT>0.00</AMOUNT>                    
+</ONTIMEMCPAIDAMOUNT>                    
+<ONTIMEMCPAIDAMOUNT TYPE="EE">                        
+<AMOUNT>0.00</AMOUNT>                    
+</ONTIMEMCPAIDAMOUNT>                    
+<ONTIMEMCPAIDDATE XSI:NIL="TRUE"/>                
+</ONTIMEMCPAID>                
+<LATEMCPAID>                    
+<LATEMCPAIDAMOUNT TYPE="ERSEP">                        
+<AMOUNT>0.00</AMOUNT>                    
+</LATEMCPAIDAMOUNT>                    
+<LATEMCPAIDAMOUNT TYPE="EE">                        
+<AMOUNT>0.00</AMOUNT>                    
+</LATEMCPAIDAMOUNT>                    
+<LATEMCPAIDDATE XSI:NIL="TRUE"/>                
+</LATEMCPAID>                
+<SURCHARGEPAID>                    
+<SURCHARGEPAIDAMOUNT TYPE="ERSEP">                        
+<AMOUNT>0.00</AMOUNT>                    
+</SURCHARGEPAIDAMOUNT>                    
+<SURCHARGEPAIDAMOUNT TYPE="EE">                        
+<AMOUNT>0.00</AMOUNT>                    
+</SURCHARGEPAIDAMOUNT>                    
+<SURCHARGEPAIDDATE XSI:NIL="TRUE"/>                
+</SURCHARGEPAID>                
+<FREQUENCY>CDMTH</FREQUENCY>                
+<DCREASON>NOPAY</DCREASON>                
+<ISUNIQUEREFNO XSI:NIL="TRUE"/>                
+<ISNODAYS XSI:NIL="TRUE"/>                
+<ISDATERANGEFROM XSI:NIL="TRUE"/>                
+<ISDATERANGETO XSI:NIL="TRUE"/>                
+<REMARKS XSI:NIL="TRUE"/>            
+</CONTRIBUTION>        
+</MEMBER>        
+<MEMBER>            
+<IDENTITY>                
+<HKID>                    
+<HKIDNUMBER>Q720047</HKIDNUMBER>                    
+<CHECKDIGIT>8</CHECKDIGIT>                
+</HKID>            
+</IDENTITY>            
+<MEMBERUNIQUEREFNO>SHK-3287</MEMBERUNIQUEREFNO>            
+<MEMBERNAME LANG="EN">                
+<LASTNAME>MJAN</LASTNAME>                
+<FIRSTNAME>MJ XXWBA</FIRSTNAME>            
+</MEMBERNAME>            
+<MEMBERNAME LANG="CH">                
+<LASTNAME>ZR</LASTNAME>                
+<FIRSTNAME>B</FIRSTNAME>            
+</MEMBERNAME>            
+<DATEOFBIRTH>1977-11-04</DATEOFBIRTH>            
+<MOBILENO>90000000</MOBILENO>            
+<PHONENO XSI:NIL="TRUE"/>            
+<ADDRESS1>ALMIDHHSYL</ADDRESS1>            
+<ADDRESS2>ILJFDQKRRYP</ADDRESS2>            
+<ADDRESS3>IAALQXKDWPSI</ADDRESS3>            
+<ADDRESS4>KUMXKHHYO</ADDRESS4>            
+<ADDRESS5 XSI:NIL="TRUE"/>            
+<NATUREOFEMPLOYMENT>REGEE</NATUREOFEMPLOYMENT>            
+<EMPLOYMENTSTARTDATE>2007-12-01</EMPLOYMENTSTARTDATE>            
+<LASTEMPLOYMENTDATE XSI:NIL="TRUE"/>            
+<INTRAGROUPTRANSFER>N</INTRAGROUPTRANSFER>            
+<LATEENROLLEDMEMBER>N</LATEENROLLEDMEMBER>            
+<ENROLLMENTPROCESSINGDATE>2008-03-04</ENROLLMENTPROCESSINGDATE>            
+<REMARKS XSI:NIL="TRUE"/>            
+<CONTRIBUTION>                
+<PERIODSTARTDATE>2018-03-01</PERIODSTARTDATE>                
+<PERIODENDDATE>2018-03-31</PERIODENDDATE>                
+<RELEVANTINCOME>26190.20</RELEVANTINCOME>                
+<RELEVANTINCOMEREF XSI:NIL="TRUE"/>                
+<ONTIMEMCPAID>                    
+<ONTIMEMCPAIDAMOUNT TYPE="ERSEP">                        
+<AMOUNT>0.00</AMOUNT>                    
+</ONTIMEMCPAIDAMOUNT>                    
+<ONTIMEMCPAIDAMOUNT TYPE="EE">                        
+<AMOUNT>0.00</AMOUNT>                    
+</ONTIMEMCPAIDAMOUNT>                    
+<ONTIMEMCPAIDDATE XSI:NIL="TRUE"/>                
+</ONTIMEMCPAID>                
+<LATEMCPAID>                    
+<LATEMCPAIDAMOUNT TYPE="ERSEP">                        
+<AMOUNT>0.00</AMOUNT>                    
+</LATEMCPAIDAMOUNT>                    
+<LATEMCPAIDAMOUNT TYPE="EE">                        
+<AMOUNT>0.00</AMOUNT>                    
+</LATEMCPAIDAMOUNT>                    
+<LATEMCPAIDDATE XSI:NIL="TRUE"/>                
+</LATEMCPAID>                
+<SURCHARGEPAID>                    
+<SURCHARGEPAIDAMOUNT TYPE="ERSEP">                        
+<AMOUNT>0.00</AMOUNT>                    
+</SURCHARGEPAIDAMOUNT>                    
+<SURCHARGEPAIDAMOUNT TYPE="EE">                        
+<AMOUNT>0.00</AMOUNT>                    
+</SURCHARGEPAIDAMOUNT>                    
+<SURCHARGEPAIDDATE XSI:NIL="TRUE"/>                
+</SURCHARGEPAID>                
+<FREQUENCY>CDMTH</FREQUENCY>                
+<DCREASON>NOPAY</DCREASON>                
+<ISUNIQUEREFNO XSI:NIL="TRUE"/>                
+<ISNODAYS XSI:NIL="TRUE"/>                
+<ISDATERANGEFROM XSI:NIL="TRUE"/>                
+<ISDATERANGETO XSI:NIL="TRUE"/>                
+<REMARKS XSI:NIL="TRUE"/>            
+</CONTRIBUTION>        
+</MEMBER>        
+<MEMBER>            
+<IDENTITY>                
+<HKID>                    
+<HKIDNUMBER>O026737</HKIDNUMBER>                    
+<CHECKDIGIT>7</CHECKDIGIT>                
+</HKID>            
+</IDENTITY>            
+<MEMBERUNIQUEREFNO>SHK-2876254</MEMBERUNIQUEREFNO>            
+<MEMBERNAME LANG="EN">                
+<LASTNAME>LT</LASTNAME>                
+<FIRSTNAME>MDAX BLET</FIRSTNAME>            
+</MEMBERNAME>            
+<MEMBERNAME LANG="CH">                
+<LASTNAME>FC</LASTNAME>                
+<FIRSTNAME>C</FIRSTNAME>            
+</MEMBERNAME>            
+<DATEOFBIRTH>1979-11-03</DATEOFBIRTH>            
+<MOBILENO>90000000</MOBILENO>            
+<PHONENO XSI:NIL="TRUE"/>            
+<ADDRESS1>RUKGK</ADDRESS1>            
+<ADDRESS2>SIJADGM</ADDRESS2>            
+<ADDRESS3 XSI:NIL="TRUE"/>            
+<ADDRESS4 XSI:NIL="TRUE"/>            
+<ADDRESS5 XSI:NIL="TRUE"/>            
+<NATUREOFEMPLOYMENT>REGEE</NATUREOFEMPLOYMENT>            
+<EMPLOYMENTSTARTDATE>2006-11-20</EMPLOYMENTSTARTDATE>            
+<LASTEMPLOYMENTDATE XSI:NIL="TRUE"/>            
+<INTRAGROUPTRANSFER>Y</INTRAGROUPTRANSFER>            
+<LATEENROLLEDMEMBER>N</LATEENROLLEDMEMBER>            
+<ENROLLMENTPROCESSINGDATE>2007-01-23</ENROLLMENTPROCESSINGDATE>            
+<REMARKS XSI:NIL="TRUE"/>            
+<CONTRIBUTION>                
+<PERIODSTARTDATE>2018-03-01</PERIODSTARTDATE>                
+<PERIODENDDATE>2018-03-31</PERIODENDDATE>                
+<RELEVANTINCOME>24514.20</RELEVANTINCOME>                
+<RELEVANTINCOMEREF XSI:NIL="TRUE"/>                	
+<ONTIMEMCPAID>                    
+<ONTIMEMCPAIDAMOUNT TYPE="ERSEP">                        
+<AMOUNT>0.00</AMOUNT>                    
+</ONTIMEMCPAIDAMOUNT>                    
+<ONTIMEMCPAIDAMOUNT TYPE="EE">                        
+<AMOUNT>0.00</AMOUNT>                    
+</ONTIMEMCPAIDAMOUNT>                    
+<ONTIMEMCPAIDDATE XSI:NIL="TRUE"/>                
+</ONTIMEMCPAID>                
+<LATEMCPAID>                    
+<LATEMCPAIDAMOUNT TYPE="ERSEP">                        
+<AMOUNT>0.00</AMOUNT>                    
+</LATEMCPAIDAMOUNT>                    
+<LATEMCPAIDAMOUNT TYPE="EE">                        
+<AMOUNT>0.00</AMOUNT>                    
+</LATEMCPAIDAMOUNT>                    
+<LATEMCPAIDDATE XSI:NIL="TRUE"/>                
+</LATEMCPAID>                <SURCHARGEPAID>                   
+ <SURCHARGEPAIDAMOUNT TYPE="ERSEP">                        
+ <AMOUNT>0.00</AMOUNT>                   
+ </SURCHARGEPAIDAMOUNT>                    
+ <SURCHARGEPAIDAMOUNT TYPE="EE">                        
+ <AMOUNT>0.00</AMOUNT>                    
+ </SURCHARGEPAIDAMOUNT>                    
+ <SURCHARGEPAIDDATE XSI:NIL="TRUE"/>                
+ </SURCHARGEPAID>                
+ <FREQUENCY>CDMTH</FREQUENCY>                
+ <DCREASON>NOPAY</DCREASON>                
+ <ISUNIQUEREFNO XSI:NIL="TRUE"/>                
+ <ISNODAYS XSI:NIL="TRUE"/>                
+ <ISDATERANGEFROM XSI:NIL="TRUE"/>                
+ <ISDATERANGETO XSI:NIL="TRUE"/>                
+ <REMARKS XSI:NIL="TRUE"/>            
+ </CONTRIBUTION>        
+ </MEMBER>        
+ <MEMBER>            
+ <IDENTITY>                
+ <HKID>                    
+ <HKIDNUMBER>G368698</HKIDNUMBER>                    
+ <CHECKDIGIT>0</CHECKDIGIT>                
+ </HKID>            
+ </IDENTITY>            
+ <MEMBERUNIQUEREFNO>SHK-234621</MEMBERUNIQUEREFNO>            
+ <MEMBERNAME LANG="EN">                
+ <LASTNAME>XDO</LASTNAME>                
+ <FIRSTNAME>NP AXT</FIRSTNAME>            
+ </MEMBERNAME>            
+ <MEMBERNAME LANG="CH">                
+ <LASTNAME>MQ</LASTNAME>                
+ <FIRSTNAME>M</FIRSTNAME>            
+ </MEMBERNAME>            
+ <DATEOFBIRTH>1986-01-09</DATEOFBIRTH>            
+ <MOBILENO>60000000</MOBILENO>            
+ <PHONENO XSI:NIL="TRUE"/>            
+ <ADDRESS1>VWRZPLTUSENDEKXQK</ADDRESS1>            
+ <ADDRESS2>AMGJHTLWJMRFH</ADDRESS2>            
+ <ADDRESS3>GKMWMYMYEVA</ADDRESS3>            
+ <ADDRESS4 XSI:NIL="TRUE"/>            
+ <ADDRESS5 XSI:NIL="TRUE"/>            
+ <NATUREOFEMPLOYMENT>REGEE</NATUREOFEMPLOYMENT>            
+ <EMPLOYMENTSTARTDATE>2009-03-01</EMPLOYMENTSTARTDATE>            
+ <LASTEMPLOYMENTDATE XSI:NIL="TRUE"/>            
+ <INTRAGROUPTRANSFER>Y</INTRAGROUPTRANSFER>            
+ <LATEENROLLEDMEMBER>N</LATEENROLLEDMEMBER>            
+ <ENROLLMENTPROCESSINGDATE>2009-04-30</ENROLLMENTPROCESSINGDATE>            
+ <REMARKS XSI:NIL="TRUE"/>            
+ <CONTRIBUTION>                
+ <PERIODSTARTDATE>2018-03-01</PERIODSTARTDATE>                
+ <PERIODENDDATE>2018-03-31</PERIODENDDATE>                
+ <RELEVANTINCOME>18590.20</RELEVANTINCOME>                
+ <RELEVANTINCOMEREF XSI:NIL="TRUE"/>                
+ <ONTIMEMCPAID>                    
+ <ONTIMEMCPAIDAMOUNT TYPE="ERSEP">                        
+ <AMOUNT>0.00</AMOUNT>                    
+ </ONTIMEMCPAIDAMOUNT>                    
+ <ONTIMEMCPAIDAMOUNT TYPE="EE">                        
+ <AMOUNT>0.00</AMOUNT>                    
+ </ONTIMEMCPAIDAMOUNT>                    
+ <ONTIMEMCPAIDDATE XSI:NIL="TRUE"/>                
+ </ONTIMEMCPAID>                
+ <LATEMCPAID>                    
+ <LATEMCPAIDAMOUNT TYPE="ERSEP">                        
+ <AMOUNT>0.00</AMOUNT>                    
+ </LATEMCPAIDAMOUNT>                    
+ <LATEMCPAIDAMOUNT TYPE="EE">                        
+ <AMOUNT>0.00</AMOUNT>                    
+ </LATEMCPAIDAMOUNT>                    
+ <LATEMCPAIDDATE XSI:NIL="TRUE"/>                
+ </LATEMCPAID>                
+ <SURCHARGEPAID>                    
+ <SURCHARGEPAIDAMOUNT TYPE="ERSEP">                        
+ <AMOUNT>0.00</AMOUNT>                    
+ </SURCHARGEPAIDAMOUNT>                    
+ <SURCHARGEPAIDAMOUNT TYPE="EE">                        
+ <AMOUNT>0.00</AMOUNT>                    
+ </SURCHARGEPAIDAMOUNT>                    
+ <SURCHARGEPAIDDATE XSI:NIL="TRUE"/>                
+ </SURCHARGEPAID>               
+ <FREQUENCY>CDMTH</FREQUENCY>                
+ <DCREASON>NOPAY</DCREASON>                
+ <ISUNIQUEREFNO XSI:NIL="TRUE"/>                
+ <ISNODAYS XSI:NIL="TRUE"/>                
+ <ISDATERANGEFROM XSI:NIL="TRUE"/>                
+ <ISDATERANGETO XSI:NIL="TRUE"/>                
+ <REMARKS XSI:NIL="TRUE"/>            
+ </CONTRIBUTION>        
+ </MEMBER>    
+ </ER>    
+ <ER>        
+ <MPFAREFNO XSI:NIL="TRUE"/>        
+ <PARTICIPATIONNO>BR88798522824</PARTICIPATIONNO>        
+ <DEFAULTERNAME LANG="EN">            
+ <NAME>ZDFAXKXDALD WZSFF OBJFAMELBL RFDKSJXDFE UO</NAME>        
+ </DEFAULTERNAME>        
+ <DEFAULTERNAME LANG="CH">            
+ <NAME XSI:NIL="TRUE"/>        
+ </DEFAULTERNAME>        
+ <DEFAULTERCONTACTPERSON LANG="EN">            
+ <NAME>DOURTMTCQVCZBCE </NAME>        
+ </DEFAULTERCONTACTPERSON>        
+ <DEFAULTERCONTACTPERSON LANG="CH">            
+ <NAME> </NAME>        
+ </DEFAULTERCONTACTPERSON>        
+ <AUTHORIZEDPERSON XSI:NIL="TRUE"/>        
+ <PHONENOREGIONALCODE XSI:NIL="TRUE"/>        
+ <PHONENOAREACODE XSI:NIL="TRUE"/>        
+ <PHONENO>20000000</PHONENO>        
+ <FAXNOREGIONALCODE XSI:NIL="TRUE"/>        
+ <FAXNOAREACODE XSI:NIL="TRUE"/>        
+ <FAXNO>20000000</FAXNO>        
+ <ADDRESS1>FBOGAENPVCVFGSSLKYHWYQHSLLWCKVZHXGZYRFUMCTWUVOBWZY</ADDRESS1>        
+ <ADDRESS2>IU</ADDRESS2>        
+ <ADDRESS3 XSI:NIL="TRUE"/>        
+ <ADDRESS4 XSI:NIL="TRUE"/>        
+ <ADDRESS5 XSI:NIL="TRUE"/>        
+ <EMAIL>BHGB@BESTSERVE.COM</EMAIL>        
+ <SCHEMEREGISTRATIONNO>ES00020</SCHEMEREGISTRATIONNO>        
+ <SUBSCHEMENUMBER>850427SST</SUBSCHEMENUMBER>        
+ <SUBSCHEMESERVICEOFFICERNAME XSI:NIL="TRUE"/>        
+ <SUBSCHEMESERVICEOFFICERPHONE XSI:NIL="TRUE"/>        
+ <INDUSTRYTYPE>99</INDUSTRYTYPE>        <UNTRACEABLEDEFAULTER>N</UNTRACEABLEDEFAULTER>        
+ <CHANGEOFDEFAULTERNAME XSI:NIL="TRUE"/>        
+ <ORIGINALDEFAULTERNAME LANG="EN">            
+ <NAME XSI:NIL="TRUE"/>        
+ </ORIGINALDEFAULTERNAME>        
+ <ORIGINALDEFAULTERNAME LANG="CH">            
+ <NAME XSI:NIL="TRUE"/>        
+ </ORIGINALDEFAULTERNAME>        
+ <NOOFENROLLEDMEMBERS>4215</NOOFENROLLEDMEMBERS>        
+ <SCHEMEEFFECTIVEDATE>2000-12-27</SCHEMEEFFECTIVEDATE>        
+ <SCHEMETERMINATIONDATE XSI:NIL="TRUE"/>        
+ <REMARKS>850427SST</REMARKS>        
+ <MEMBER>            
+ <IDENTITY>                
+ <HKID>                    
+ <HKIDNUMBER>C479315</HKIDNUMBER>                    
+ <CHECKDIGIT>1</CHECKDIGIT>                
+ </HKID>            
+ </IDENTITY>            
+ <MEMBERUNIQUEREFNO>SHK-868910</MEMBERUNIQUEREFNO>            
+ <MEMBERNAME LANG="EN">                
+ <LASTNAME>MJAN</LASTNAME>                
+ <FIRSTNAME>MJ XZRAFI PXRP</FIRSTNAME>            
+ </MEMBERNAME>            
+ <MEMBERNAME LANG="CH">                
+ <LASTNAME>DY</LASTNAME>                
+ <FIRSTNAME>L</FIRSTNAME>            
+ </MEMBERNAME>            
+ <DATEOFBIRTH>1974-07-06</DATEOFBIRTH>            
+ <MOBILENO>90000000</MOBILENO>            
+ <PHONENO XSI:NIL="TRUE"/>            
+ <ADDRESS1>ISRKPFI</ADDRESS1>            
+ <ADDRESS2>JLVZCJEUBAQPV</ADDRESS2>            
+ <ADDRESS3>NCQNQDURCYA</ADDRESS3>            
+ <ADDRESS4>BINWVRJCA</ADDRESS4>            
+ <ADDRESS5 XSI:NIL="TRUE"/>            
+ <NATUREOFEMPLOYMENT>REGEE</NATUREOFEMPLOYMENT>            
+ <EMPLOYMENTSTARTDATE>2007-11-01</EMPLOYMENTSTARTDATE>            
+ <LASTEMPLOYMENTDATE XSI:NIL="TRUE"/>            
+ <INTRAGROUPTRANSFER>Y</INTRAGROUPTRANSFER>            
+ <LATEENROLLEDMEMBER>N</LATEENROLLEDMEMBER>            
+ <ENROLLMENTPROCESSINGDATE>2007-12-28</ENROLLMENTPROCESSINGDATE>            
+ <REMARKS XSI:NIL="TRUE"/>            
+ <CONTRIBUTION>                
+ <PERIODSTARTDATE>2018-03-01</PERIODSTARTDATE>                
+ <PERIODENDDATE>2018-03-31</PERIODENDDATE>                
+ <RELEVANTINCOME>0.00</RELEVANTINCOME>                
+ <RELEVANTINCOMEREF XSI:NIL="TRUE"/>                
+ <ONTIMEMCPAID>                    
+ <ONTIMEMCPAIDAMOUNT TYPE="ERSEP">                        
+ <AMOUNT>0.00</AMOUNT>                    
+ </ONTIMEMCPAIDAMOUNT>                    
+ <ONTIMEMCPAIDAMOUNT TYPE="EE">                        
+ <AMOUNT>0.00</AMOUNT>                    
+ </ONTIMEMCPAIDAMOUNT>                    
+ <ONTIMEMCPAIDDATE XSI:NIL="TRUE"/>                
+ </ONTIMEMCPAID>                
+ <LATEMCPAID>                    
+ <LATEMCPAIDAMOUNT TYPE="ERSEP">                        
+ <AMOUNT>0.00</AMOUNT>                    
+ </LATEMCPAIDAMOUNT>                    
+ <LATEMCPAIDAMOUNT TYPE="EE">                        
+ <AMOUNT>0.00</AMOUNT>                    
+ </LATEMCPAIDAMOUNT>                    
+ <LATEMCPAIDDATE XSI:NIL="TRUE"/>                
+ </LATEMCPAID>                
+ <SURCHARGEPAID>                    
+ <SURCHARGEPAIDAMOUNT TYPE="ERSEP">                        
+ <AMOUNT>0.00</AMOUNT>                    
+ </SURCHARGEPAIDAMOUNT>                    
+ <SURCHARGEPAIDAMOUNT TYPE="EE">                        
+ <AMOUNT>0.00</AMOUNT>                    
+ </SURCHARGEPAIDAMOUNT>                    
+ <SURCHARGEPAIDDATE XSI:NIL="TRUE"/>                
+ </SURCHARGEPAID>                
+ <FREQUENCY>CDMTH</FREQUENCY>                
+ <DCREASON>NOPAY</DCREASON>                
+ <ISUNIQUEREFNO XSI:NIL="TRUE"/>                
+ <ISNODAYS XSI:NIL="TRUE"/>                
+ <ISDATERANGEFROM XSI:NIL="TRUE"/>                
+ <ISDATERANGETO XSI:NIL="TRUE"/>                
+ <REMARKS XSI:NIL="TRUE"/>            
+ </CONTRIBUTION>        
+ </MEMBER>        
+ <MEMBER>            
+ <IDENTITY>                
+ <HKID>                    
+ <HKIDNUMBER>T841545</HKIDNUMBER>                    
+ <CHECKDIGIT>A</CHECKDIGIT>                
+ </HKID>            
+ </IDENTITY>            
+ <MEMBERUNIQUEREFNO>SHK-8332693</MEMBERUNIQUEREFNO>            
+ <MEMBERNAME LANG="EN">                
+ <LASTNAME>MJAFB</LASTNAME>                
+ <FIRSTNAME>XMBAR ZX</FIRSTNAME>            
+ </MEMBERNAME>            
+ <MEMBERNAME LANG="CH">                
+ <LASTNAME>DC</LASTNAME>                
+ <FIRSTNAME>H</FIRSTNAME>            
+ </MEMBERNAME>            
+ <DATEOFBIRTH>1964-11-12</DATEOFBIRTH>            
+ <MOBILENO>90000000</MOBILENO>            
+ <PHONENO XSI:NIL="TRUE"/>            
+ <ADDRESS1>PNCJEIIMEN</ADDRESS1>            
+ <ADDRESS2>SKYBRYCSKZRAOZQJJB</ADDRESS2>            
+ <ADDRESS3>NVBGSHXSCKXTGCWHT</ADDRESS3>            
+ <ADDRESS4>EXPUWBHVG</ADDRESS4>            
+ <ADDRESS5 XSI:NIL="TRUE"/>            
+ <NATUREOFEMPLOYMENT>REGEE</NATUREOFEMPLOYMENT>            
+ <EMPLOYMENTSTARTDATE>2008-07-11</EMPLOYMENTSTARTDATE>            
+ <LASTEMPLOYMENTDATE XSI:NIL="TRUE"/>            
+ <INTRAGROUPTRANSFER>Y</INTRAGROUPTRANSFER>            
+ <LATEENROLLEDMEMBER>N</LATEENROLLEDMEMBER>            
+ <ENROLLMENTPROCESSINGDATE>2008-09-29</ENROLLMENTPROCESSINGDATE>            
+ <REMARKS XSI:NIL="TRUE"/>            
+ <CONTRIBUTION>                
+ <PERIODSTARTDATE>2018-03-01</PERIODSTARTDATE>                
+ <PERIODENDDATE>2018-03-31</PERIODENDDATE>                
+ <RELEVANTINCOME>0.00</RELEVANTINCOME>                
+ <RELEVANTINCOMEREF XSI:NIL="TRUE"/>                
+ <ONTIMEMCPAID>                    
+ <ONTIMEMCPAIDAMOUNT TYPE="ERSEP">                        
+ <AMOUNT>0.00</AMOUNT>                    
+ </ONTIMEMCPAIDAMOUNT>                    
+ <ONTIMEMCPAIDAMOUNT TYPE="EE">                        
+ <AMOUNT>0.00</AMOUNT>                    
+ </ONTIMEMCPAIDAMOUNT>                    
+ <ONTIMEMCPAIDDATE XSI:NIL="TRUE"/>                
+ </ONTIMEMCPAID>                
+ <LATEMCPAID>                    
+ <LATEMCPAIDAMOUNT TYPE="ERSEP">                        
+ <AMOUNT>0.00</AMOUNT>                    
+ </LATEMCPAIDAMOUNT>                    
+ <LATEMCPAIDAMOUNT TYPE="EE">                        
+ <AMOUNT>0.00</AMOUNT>                    
+ </LATEMCPAIDAMOUNT>                    
+ <LATEMCPAIDDATE XSI:NIL="TRUE"/>                
+ </LATEMCPAID>                
+ <SURCHARGEPAID>                    
+ <SURCHARGEPAIDAMOUNT TYPE="ERSEP">                        
+ <AMOUNT>0.00</AMOUNT>                    
+ </SURCHARGEPAIDAMOUNT>                    
+ <SURCHARGEPAIDAMOUNT TYPE="EE">                        
+ <AMOUNT>0.00</AMOUNT>                    
+ </SURCHARGEPAIDAMOUNT>                    
+ <SURCHARGEPAIDDATE XSI:NIL="TRUE"/>                
+ </SURCHARGEPAID>                
+ <FREQUENCY>CDMTH</FREQUENCY>                
+ <DCREASON>NOPAY</DCREASON>                
+ <ISUNIQUEREFNO XSI:NIL="TRUE"/>                
+ <ISNODAYS XSI:NIL="TRUE"/>                
+ <ISDATERANGEFROM XSI:NIL="TRUE"/>                
+ <ISDATERANGETO XSI:NIL="TRUE"/>                
+ <REMARKS XSI:NIL="TRUE"/>            
+ </CONTRIBUTION>        
+ </MEMBER>        
+ <MEMBER>            
+ <IDENTITY>               
+ <HKID>                    
+ <HKIDNUMBER>W628570</HKIDNUMBER>                    
+ <CHECKDIGIT>0</CHECKDIGIT>                
+ </HKID>            
+ </IDENTITY>            
+ <MEMBERUNIQUEREFNO>SHK-828517</MEMBERUNIQUEREFNO>            
+ <MEMBERNAME LANG="EN">                
+ <LASTNAME>NEV</LASTNAME>                
+ <FIRSTNAME>VTTLM AZB</FIRSTNAME>            
+ </MEMBERNAME>            
+ <MEMBERNAME LANG="CH">                
+ <LASTNAME>QM</LASTNAME>                
+ <FIRSTNAME>X</FIRSTNAME>            
+ </MEMBERNAME>            
+ <DATEOFBIRTH>1970-05-04</DATEOFBIRTH>            
+ <MOBILENO>90000000</MOBILENO>            
+ <PHONENO XSI:NIL="TRUE"/>            
+ <ADDRESS1>BXRIWRNICEEYMUPDNVTXEYU</ADDRESS1>            
+ <ADDRESS2>OVMMAKMPMNOL</ADDRESS2>            
+ <ADDRESS3>HWNJMTNOXWUKDT</ADDRESS3>            
+ <ADDRESS4 XSI:NIL="TRUE"/>            
+ <ADDRESS5 XSI:NIL="TRUE"/>            
+ <NATUREOFEMPLOYMENT>REGEE</NATUREOFEMPLOYMENT>            
+ <EMPLOYMENTSTARTDATE>1998-06-01</EMPLOYMENTSTARTDATE>            
+ <LASTEMPLOYMENTDATE XSI:NIL="TRUE"/>            
+ <INTRAGROUPTRANSFER>N</INTRAGROUPTRANSFER>            
+ <LATEENROLLEDMEMBER>N</LATEENROLLEDMEMBER>            
+ <ENROLLMENTPROCESSINGDATE>2000-12-08</ENROLLMENTPROCESSINGDATE>            
+ <REMARKS XSI:NIL="TRUE"/>            
+ <CONTRIBUTION>                
+ <PERIODSTARTDATE>2018-03-01</PERIODSTARTDATE>                
+ <PERIODENDDATE>2018-03-31</PERIODENDDATE>                
+ <RELEVANTINCOME>0.00</RELEVANTINCOME>                
+ <RELEVANTINCOMEREF XSI:NIL="TRUE"/>                
+ <ONTIMEMCPAID>                    
+ <ONTIMEMCPAIDAMOUNT TYPE="ERSEP">                        
+ <AMOUNT>0.00</AMOUNT>                    
+ </ONTIMEMCPAIDAMOUNT>                    
+ <ONTIMEMCPAIDAMOUNT TYPE="EE">                        
+ <AMOUNT>0.00</AMOUNT>                    
+ </ONTIMEMCPAIDAMOUNT>                    
+ <ONTIMEMCPAIDDATE XSI:NIL="TRUE"/>                
+ </ONTIMEMCPAID>                
+ <LATEMCPAID>                    
+ <LATEMCPAIDAMOUNT TYPE="ERSEP">                        
+ <AMOUNT>0.00</AMOUNT>                    
+ </LATEMCPAIDAMOUNT>                    
+ <LATEMCPAIDAMOUNT TYPE="EE">                        
+ <AMOUNT>0.00</AMOUNT>                    
+ </LATEMCPAIDAMOUNT>                    
+ <LATEMCPAIDDATE XSI:NIL="TRUE"/>                
+ </LATEMCPAID>                
+ <SURCHARGEPAID>                    
+ <SURCHARGEPAIDAMOUNT TYPE="ERSEP">                        
+ <AMOUNT>0.00</AMOUNT>                    
+ </SURCHARGEPAIDAMOUNT>                    
+ <SURCHARGEPAIDAMOUNT TYPE="EE">                        
+ <AMOUNT>0.00</AMOUNT>                    
+ </SURCHARGEPAIDAMOUNT>                    
+ <SURCHARGEPAIDDATE XSI:NIL="TRUE"/>                
+ </SURCHARGEPAID>                
+ <FREQUENCY>CDMTH</FREQUENCY>                
+ <DCREASON>NOPAY</DCREASON>                
+ <ISUNIQUEREFNO XSI:NIL="TRUE"/>                
+ <ISNODAYS XSI:NIL="TRUE"/>                
+ <ISDATERANGEFROM XSI:NIL="TRUE"/>                
+ <ISDATERANGETO XSI:NIL="TRUE"/>                
+ <REMARKS XSI:NIL="TRUE"/>            
+ </CONTRIBUTION>        
+ </MEMBER>        
+ <MEMBER>            
+ <IDENTITY>                
+ <HKID>                    
+ <HKIDNUMBER>C418825</HKIDNUMBER>                    
+ <CHECKDIGIT>8</CHECKDIGIT>                
+ </HKID>            
+ </IDENTITY>            
+ <MEMBERUNIQUEREFNO>SHK-7011729</MEMBERUNIQUEREFNO>            
+ <MEMBERNAME LANG="EN">                
+ <LASTNAME>LVBA</LASTNAME>                
+ <FIRSTNAME>XR ZMDAXB</FIRSTNAME>            
+ </MEMBERNAME>            
+ <MEMBERNAME LANG="CH">                
+ <LASTNAME>VI</LASTNAME>                
+ <FIRSTNAME>D</FIRSTNAME>            
+ </MEMBERNAME>            
+ <DATEOFBIRTH>1960-08-14</DATEOFBIRTH>            
+ <MOBILENO>60000000</MOBILENO>            
+ <PHONENO XSI:NIL="TRUE"/>            
+ <ADDRESS1>ETXYTRHTIVBPRZFDIR</ADDRESS1>            
+ <ADDRESS2>HMUMMAFWDBBIZJXGRNY</ADDRESS2>            
+ <ADDRESS3>BMSPBWCIYIAK</ADDRESS3>            
+ <ADDRESS4 XSI:NIL="TRUE"/>            
+ <ADDRESS5 XSI:NIL="TRUE"/>            
+ <NATUREOFEMPLOYMENT>REGEE</NATUREOFEMPLOYMENT>            
+ <EMPLOYMENTSTARTDATE>2015-07-02</EMPLOYMENTSTARTDATE>            
+ <LASTEMPLOYMENTDATE XSI:NIL="TRUE"/>            
+ <INTRAGROUPTRANSFER>Y</INTRAGROUPTRANSFER>            
+ <LATEENROLLEDMEMBER>N</LATEENROLLEDMEMBER>            
+ <ENROLLMENTPROCESSINGDATE>2015-09-02</ENROLLMENTPROCESSINGDATE>            
+ <REMARKS XSI:NIL="TRUE"/>            
+ <CONTRIBUTION>                
+ <PERIODSTARTDATE>2018-03-01</PERIODSTARTDATE>                
+ <PERIODENDDATE>2018-03-31</PERIODENDDATE>                
+ <RELEVANTINCOME>0.00</RELEVANTINCOME>                
+ <RELEVANTINCOMEREF XSI:NIL="TRUE"/>                
+ <ONTIMEMCPAID>                    
+ <ONTIMEMCPAIDAMOUNT TYPE="ERSEP">                        
+ <AMOUNT>0.00</AMOUNT>                    
+ </ONTIMEMCPAIDAMOUNT>                    
+ <ONTIMEMCPAIDAMOUNT TYPE="EE">                        
+ <AMOUNT>0.00</AMOUNT>                    
+ </ONTIMEMCPAIDAMOUNT>                    
+ <ONTIMEMCPAIDDATE XSI:NIL="TRUE"/>                
+ </ONTIMEMCPAID>                
+ <LATEMCPAID>                    
+ <LATEMCPAIDAMOUNT TYPE="ERSEP">                        
+ <AMOUNT>0.00</AMOUNT>                    
+ </LATEMCPAIDAMOUNT>                    
+ <LATEMCPAIDAMOUNT TYPE="EE">                        
+ <AMOUNT>0.00</AMOUNT>                    
+ </LATEMCPAIDAMOUNT>                    
+ <LATEMCPAIDDATE XSI:NIL="TRUE"/>                
+ </LATEMCPAID>                
+ <SURCHARGEPAID>                    
+ <SURCHARGEPAIDAMOUNT TYPE="ERSEP">                        
+ <AMOUNT>0.00</AMOUNT>                    
+ </SURCHARGEPAIDAMOUNT>                    
+ <SURCHARGEPAIDAMOUNT TYPE="EE">                        
+ <AMOUNT>0.00</AMOUNT>                    
+ </SURCHARGEPAIDAMOUNT>                    
+ <SURCHARGEPAIDDATE XSI:NIL="TRUE"/>                
+ </SURCHARGEPAID>                
+ <FREQUENCY>CDMTH</FREQUENCY>                
+ <DCREASON>NOPAY</DCREASON>                
+ <ISUNIQUEREFNO XSI:NIL="TRUE"/>                
+ <ISNODAYS XSI:NIL="TRUE"/>                
+ <ISDATERANGEFROM XSI:NIL="TRUE"/>                
+ <ISDATERANGETO XSI:NIL="TRUE"/>                
+ <REMARKS XSI:NIL="TRUE"/>            
+ </CONTRIBUTION>        
+ </MEMBER>        
+ <MEMBER>            
+ <IDENTITY>                
+ <HKID>                    
+ <HKIDNUMBER>O424720</HKIDNUMBER>                    
+ <CHECKDIGIT>6</CHECKDIGIT>                
+ </HKID>            
+ </IDENTITY>            
+ <MEMBERUNIQUEREFNO>SHK-68515</MEMBERUNIQUEREFNO>            
+ <MEMBERNAME LANG="EN">                
+ <LASTNAME>ZEX</LASTNAME>                
+ <FIRSTNAME>MJ XNVX</FIRSTNAME>            
+ </MEMBERNAME>            
+ <MEMBERNAME LANG="CH">                
+ <LASTNAME XSI:NIL="TRUE"/>                
+ <FIRSTNAME XSI:NIL="TRUE"/>            
+ </MEMBERNAME>            
+ <DATEOFBIRTH>1958-12-01</DATEOFBIRTH>            
+ <MOBILENO>90000000</MOBILENO>            
+ <PHONENO XSI:NIL="TRUE"/>            
+ <ADDRESS1>AITSLZTBPCTEZNJDDJ</ADDRESS1>            
+ <ADDRESS2>PPUHTBOHHPKG</ADDRESS2>            
+ <ADDRESS3>KYONWRSKRSXQX</ADDRESS3>            
+ <ADDRESS4>NY</ADDRESS4>            
+ <ADDRESS5 XSI:NIL="TRUE"/>            
+ <NATUREOFEMPLOYMENT>REGEE</NATUREOFEMPLOYMENT>            
+ <EMPLOYMENTSTARTDATE>1992-03-02</EMPLOYMENTSTARTDATE>            
+ <LASTEMPLOYMENTDATE XSI:NIL="TRUE"/>            
+ <INTRAGROUPTRANSFER>N</INTRAGROUPTRANSFER>            
+ <LATEENROLLEDMEMBER>N</LATEENROLLEDMEMBER>            
+ <ENROLLMENTPROCESSINGDATE>2000-12-08</ENROLLMENTPROCESSINGDATE>            
+ <REMARKS XSI:NIL="TRUE"/>            
+ <CONTRIBUTION>                
+ <PERIODSTARTDATE>2018-03-01</PERIODSTARTDATE>                
+ <PERIODENDDATE>2018-03-31</PERIODENDDATE>                
+ <RELEVANTINCOME>0.00</RELEVANTINCOME>                
+ <RELEVANTINCOMEREF XSI:NIL="TRUE"/>                
+ <ONTIMEMCPAID>                    
+ <ONTIMEMCPAIDAMOUNT TYPE="ERSEP">                        
+ <AMOUNT>0.00</AMOUNT>                    
+ </ONTIMEMCPAIDAMOUNT>                    
+ <ONTIMEMCPAIDAMOUNT TYPE="EE">                        
+ <AMOUNT>0.00</AMOUNT>                    
+ </ONTIMEMCPAIDAMOUNT>                    
+ <ONTIMEMCPAIDDATE XSI:NIL="TRUE"/>                
+ </ONTIMEMCPAID>                
+ <LATEMCPAID>                    
+ <LATEMCPAIDAMOUNT TYPE="ERSEP">                        
+ <AMOUNT>0.00</AMOUNT>                    
+ </LATEMCPAIDAMOUNT>                    
+ <LATEMCPAIDAMOUNT TYPE="EE">                        
+ <AMOUNT>0.00</AMOUNT>                    
+ </LATEMCPAIDAMOUNT>                    
+ <LATEMCPAIDDATE XSI:NIL="TRUE"/>                
+ </LATEMCPAID>                
+ <SURCHARGEPAID>                    
+ <SURCHARGEPAIDAMOUNT TYPE="ERSEP">                        
+ <AMOUNT>0.00</AMOUNT>                    
+ </SURCHARGEPAIDAMOUNT>                    
+ <SURCHARGEPAIDAMOUNT TYPE="EE">                        
+ <AMOUNT>0.00</AMOUNT>                    
+ </SURCHARGEPAIDAMOUNT>                    
+ <SURCHARGEPAIDDATE XSI:NIL="TRUE"/>                
+ </SURCHARGEPAID>                
+ <FREQUENCY>CDMTH</FREQUENCY>                
+ <DCREASON>NOPAY</DCREASON>                
+ <ISUNIQUEREFNO XSI:NIL="TRUE"/>                
+ <ISNODAYS XSI:NIL="TRUE"/>                
+ <ISDATERANGEFROM XSI:NIL="TRUE"/>                
+ <ISDATERANGETO XSI:NIL="TRUE"/>                
+ <REMARKS XSI:NIL="TRUE"/>            
+ </CONTRIBUTION>        
+ </MEMBER>        
+ <MEMBER>            
+ <IDENTITY>                
+ <HKID>                    
+ <HKIDNUMBER>X073748</HKIDNUMBER>                    
+ <CHECKDIGIT>3</CHECKDIGIT>                
+ </HKID>            
+ </IDENTITY>            
+ <MEMBERUNIQUEREFNO>SHK-64371</MEMBERUNIQUEREFNO>            
+ <MEMBERNAME LANG="EN">                
+ <LASTNAME>ZV</LASTNAME>                
+ <FIRSTNAME>MJ XNPA</FIRSTNAME>            
+ </MEMBERNAME>            
+ <MEMBERNAME LANG="CH">                
+ <LASTNAME>JZ</LASTNAME>                
+ <FIRSTNAME>P</FIRSTNAME>            
+ </MEMBERNAME>            
+ <DATEOFBIRTH>1977-10-27</DATEOFBIRTH>            
+ <MOBILENO>90000000</MOBILENO>            
+ <PHONENO XSI:NIL="TRUE"/>            
+ <ADDRESS1>IDHMCFGUC</ADDRESS1>            
+ <ADDRESS2>QSTWRWGDIWWS</ADDRESS2>            
+ <ADDRESS3>UNRCPARCYTGPM</ADDRESS3>            
+ <ADDRESS4>ZHEAYXVMIOE</ADDRESS4>            
+ <ADDRESS5 XSI:NIL="TRUE"/>            
+ <NATUREOFEMPLOYMENT>REGEE</NATUREOFEMPLOYMENT>            
+ <EMPLOYMENTSTARTDATE>2006-11-13</EMPLOYMENTSTARTDATE>            
+ <LASTEMPLOYMENTDATE XSI:NIL="TRUE"/>            
+ <INTRAGROUPTRANSFER>Y</INTRAGROUPTRANSFER>            
+ <LATEENROLLEDMEMBER>N</LATEENROLLEDMEMBER>            
+ <ENROLLMENTPROCESSINGDATE>2007-01-25</ENROLLMENTPROCESSINGDATE>            
+ <REMARKS XSI:NIL="TRUE"/>            
+ <CONTRIBUTION>                
+ <PERIODSTARTDATE>2018-03-01</PERIODSTARTDATE>                
+ <PERIODENDDATE>2018-03-31</PERIODENDDATE>                
+ <RELEVANTINCOME>0.00</RELEVANTINCOME>                
+ <RELEVANTINCOMEREF XSI:NIL="TRUE"/>                
+ <ONTIMEMCPAID>                    
+ <ONTIMEMCPAIDAMOUNT TYPE="ERSEP">                        
+ <AMOUNT>0.00</AMOUNT>                    
+ </ONTIMEMCPAIDAMOUNT>                    
+ <ONTIMEMCPAIDAMOUNT TYPE="EE">                        
+ <AMOUNT>0.00</AMOUNT>                    
+ </ONTIMEMCPAIDAMOUNT>                    
+ <ONTIMEMCPAIDDATE XSI:NIL="TRUE"/>                
+ </ONTIMEMCPAID>                
+ <LATEMCPAID>                    
+ <LATEMCPAIDAMOUNT TYPE="ERSEP">                        
+ <AMOUNT>0.00</AMOUNT>                    
+ </LATEMCPAIDAMOUNT>                    
+ <LATEMCPAIDAMOUNT TYPE="EE">                        
+ <AMOUNT>0.00</AMOUNT>                    
+ </LATEMCPAIDAMOUNT>                    
+ <LATEMCPAIDDATE XSI:NIL="TRUE"/>                
+ </LATEMCPAID>                
+ <SURCHARGEPAID>                    
+ <SURCHARGEPAIDAMOUNT TYPE="ERSEP">                        
+ <AMOUNT>0.00</AMOUNT>                    
+ </SURCHARGEPAIDAMOUNT>                    
+ <SURCHARGEPAIDAMOUNT TYPE="EE">                        
+ <AMOUNT>0.00</AMOUNT>                    
+ </SURCHARGEPAIDAMOUNT>                    
+ <SURCHARGEPAIDDATE XSI:NIL="TRUE"/>                
+ </SURCHARGEPAID>                
+ <FREQUENCY>CDMTH</FREQUENCY>                
+ <DCREASON>NOPAY</DCREASON>                
+ <ISUNIQUEREFNO XSI:NIL="TRUE"/>                
+ <ISNODAYS XSI:NIL="TRUE"/>                
+ <ISDATERANGEFROM XSI:NIL="TRUE"/>                
+ <ISDATERANGETO XSI:NIL="TRUE"/>                
+ <REMARKS XSI:NIL="TRUE"/>            
+ </CONTRIBUTION>        
+ </MEMBER>        
+ <MEMBER>            
+ <IDENTITY>                
+ <HKID>                    
+ <HKIDNUMBER>C728640</HKIDNUMBER>                    
+ <CHECKDIGIT>4</CHECKDIGIT>                
+ </HKID>            
+ </IDENTITY>            
+ <MEMBERUNIQUEREFNO>SHK-5237309</MEMBERUNIQUEREFNO>            
+ <MEMBERNAME LANG="EN">                
+ <LASTNAME>FEAZB</LASTNAME>                
+ <FIRSTNAME>ZRAFD NMA</FIRSTNAME>            
+ </MEMBERNAME>            
+ <MEMBERNAME LANG="CH">                
+ <LASTNAME>AL</LASTNAME>                
+ <FIRSTNAME>M</FIRSTNAME>            
+ </MEMBERNAME>            
+ <DATEOFBIRTH>1976-07-11</DATEOFBIRTH>            
+ <MOBILENO>90000000</MOBILENO>            
+ <PHONENO XSI:NIL="TRUE"/>            
+ <ADDRESS1>EMBOMEZRQ</ADDRESS1>            
+ <ADDRESS2>EDYEBBJHOAUNH</ADDRESS2>            
+ <ADDRESS3>PURWKZDYVGOZBEWMF</ADDRESS3>            
+ <ADDRESS4>UELSKLPRTFTOS</ADDRESS4>            
+ <ADDRESS5 XSI:NIL="TRUE"/>            
+ <NATUREOFEMPLOYMENT>REGEE</NATUREOFEMPLOYMENT>            
+ <EMPLOYMENTSTARTDATE>2006-05-24</EMPLOYMENTSTARTDATE>            
+ <LASTEMPLOYMENTDATE XSI:NIL="TRUE"/>            
+ <INTRAGROUPTRANSFER>Y</INTRAGROUPTRANSFER>            
+ <LATEENROLLEDMEMBER>N</LATEENROLLEDMEMBER>            
+ <ENROLLMENTPROCESSINGDATE>2006-07-28</ENROLLMENTPROCESSINGDATE>            
+ <REMARKS XSI:NIL="TRUE"/>            
+ <CONTRIBUTION>                
+ <PERIODSTARTDATE>2018-03-01</PERIODSTARTDATE>                
+ <PERIODENDDATE>2018-03-31</PERIODENDDATE>                
+ <RELEVANTINCOME>0.00</RELEVANTINCOME>                
+ <RELEVANTINCOMEREF XSI:NIL="TRUE"/>                
+ <ONTIMEMCPAID>                    
+ <ONTIMEMCPAIDAMOUNT TYPE="ERSEP">                        
+ <AMOUNT>0.00</AMOUNT>                    
+ </ONTIMEMCPAIDAMOUNT>                    
+ <ONTIMEMCPAIDAMOUNT TYPE="EE">                        
+ <AMOUNT>0.00</AMOUNT>                    
+ </ONTIMEMCPAIDAMOUNT>                    
+ <ONTIMEMCPAIDDATE XSI:NIL="TRUE"/>                
+ </ONTIMEMCPAID>                
+ <LATEMCPAID>                    
+ <LATEMCPAIDAMOUNT TYPE="ERSEP">                        
+ <AMOUNT>0.00</AMOUNT>                    
+ </LATEMCPAIDAMOUNT>                    
+ <LATEMCPAIDAMOUNT TYPE="EE">                        
+ <AMOUNT>0.00</AMOUNT>                    
+ </LATEMCPAIDAMOUNT>                    
+ <LATEMCPAIDDATE XSI:NIL="TRUE"/>                
+ </LATEMCPAID>                
+ <SURCHARGEPAID>                    
+ <SURCHARGEPAIDAMOUNT TYPE="ERSEP">                        
+ <AMOUNT>0.00</AMOUNT>                    
+ </SURCHARGEPAIDAMOUNT>                    
+ <SURCHARGEPAIDAMOUNT TYPE="EE">                        
+ <AMOUNT>0.00</AMOUNT>                    
+ </SURCHARGEPAIDAMOUNT>                    
+ <SURCHARGEPAIDDATE XSI:NIL="TRUE"/>                
+ </SURCHARGEPAID>                
+ <FREQUENCY>CDMTH</FREQUENCY>                
+ <DCREASON>NOPAY</DCREASON>                
+ <ISUNIQUEREFNO XSI:NIL="TRUE"/>                
+ <ISNODAYS XSI:NIL="TRUE"/>                
+ <ISDATERANGEFROM XSI:NIL="TRUE"/>                
+ <ISDATERANGETO XSI:NIL="TRUE"/>                
+ <REMARKS XSI:NIL="TRUE"/>            
+ </CONTRIBUTION>        
+ </MEMBER>        
+ <MEMBER>            
+ <IDENTITY>                
+ <HKID>                    
+ <HKIDNUMBER>X939356</HKIDNUMBER>                    
+ <CHECKDIGIT>6</CHECKDIGIT>                
+ </HKID>            
+ </IDENTITY>            
+ <MEMBERUNIQUEREFNO>SHK-50263</MEMBERUNIQUEREFNO>            
+ <MEMBERNAME LANG="EN">                
+ <LASTNAME>FRAZB</LASTNAME>                
+ <FIRSTNAME>NV XXRW</FIRSTNAME>            
+ </MEMBERNAME>            
+ <MEMBERNAME LANG="CH">                
+ <LASTNAME>JA</LASTNAME>                
+ <FIRSTNAME>S</FIRSTNAME>            
+ </MEMBERNAME>            
+ <DATEOFBIRTH>1973-07-27</DATEOFBIRTH>            
+ <MOBILENO>90000000</MOBILENO>            
+ <PHONENO XSI:NIL="TRUE"/>            
+ <ADDRESS1>KZPTZCBKMK</ADDRESS1>            
+ <ADDRESS2>XXIAIWLEVIDOIMH</ADDRESS2>            
+ <ADDRESS3>ASOCDAWEJDH</ADDRESS3>            
+ <ADDRESS4>RWCZAAZGO</ADDRESS4>            
+ <ADDRESS5 XSI:NIL="TRUE"/>            
+ <NATUREOFEMPLOYMENT>REGEE</NATUREOFEMPLOYMENT>            
+ <EMPLOYMENTSTARTDATE>2008-11-17</EMPLOYMENTSTARTDATE>            
+ <LASTEMPLOYMENTDATE XSI:NIL="TRUE"/>            
+ <INTRAGROUPTRANSFER>Y</INTRAGROUPTRANSFER>            
+ <LATEENROLLEDMEMBER>N</LATEENROLLEDMEMBER>            
+ <ENROLLMENTPROCESSINGDATE>2009-01-29</ENROLLMENTPROCESSINGDATE>            
+ <REMARKS XSI:NIL="TRUE"/>            
+ <CONTRIBUTION>                
+ <PERIODSTARTDATE>2018-03-01</PERIODSTARTDATE>                
+ <PERIODENDDATE>2018-03-31</PERIODENDDATE>                
+ <RELEVANTINCOME>0.00</RELEVANTINCOME>                
+ <RELEVANTINCOMEREF XSI:NIL="TRUE"/>                
+ <ONTIMEMCPAID>                    
+ <ONTIMEMCPAIDAMOUNT TYPE="ERSEP">                        
+ <AMOUNT>0.00</AMOUNT>                    
+ </ONTIMEMCPAIDAMOUNT>                    
+ <ONTIMEMCPAIDAMOUNT TYPE="EE">                        
+ <AMOUNT>0.00</AMOUNT>                    
+ </ONTIMEMCPAIDAMOUNT>                    
+ <ONTIMEMCPAIDDATE XSI:NIL="TRUE"/>                
+ </ONTIMEMCPAID>                
+ <LATEMCPAID>                    
+ <LATEMCPAIDAMOUNT TYPE="ERSEP">                        
+ <AMOUNT>0.00</AMOUNT>                    
+ </LATEMCPAIDAMOUNT>                    
+ <LATEMCPAIDAMOUNT TYPE="EE">                        
+ <AMOUNT>0.00</AMOUNT>                   
+ </LATEMCPAIDAMOUNT>                    
+ <LATEMCPAIDDATE XSI:NIL="TRUE"/>                
+ </LATEMCPAID>                
+ <SURCHARGEPAID>                    
+ <SURCHARGEPAIDAMOUNT TYPE="ERSEP">                        
+ <AMOUNT>0.00</AMOUNT>                    
+ </SURCHARGEPAIDAMOUNT>                    
+ <SURCHARGEPAIDAMOUNT TYPE="EE">                        
+ <AMOUNT>0.00</AMOUNT>                    
+ </SURCHARGEPAIDAMOUNT>                    
+ <SURCHARGEPAIDDATE XSI:NIL="TRUE"/>                
+ </SURCHARGEPAID>                
+ <FREQUENCY>CDMTH</FREQUENCY>                
+ <DCREASON>NOPAY</DCREASON>                
+ <ISUNIQUEREFNO XSI:NIL="TRUE"/>                
+ <ISNODAYS XSI:NIL="TRUE"/>                
+ <ISDATERANGEFROM XSI:NIL="TRUE"/>                
+ <ISDATERANGETO XSI:NIL="TRUE"/>                
+ <REMARKS XSI:NIL="TRUE"/>            
+ </CONTRIBUTION>        
+ </MEMBER>        
+ <MEMBER>            
+ <IDENTITY>                
+ <HKID>                    
+ <HKIDNUMBER>O433304</HKIDNUMBER>                    
+ <CHECKDIGIT>8</CHECKDIGIT>                
+ </HKID>            
+ </IDENTITY>            
+ <MEMBERUNIQUEREFNO>SHK-4547072</MEMBERUNIQUEREFNO>            
+ <MEMBERNAME LANG="EN">                
+ <LASTNAME>NOP</LASTNAME>                
+ <FIRSTNAME>NTP AN</FIRSTNAME>            
+ </MEMBERNAME>            
+ <MEMBERNAME LANG="CH">                
+ <LASTNAME>WO</LASTNAME>                
+ <FIRSTNAME>Y</FIRSTNAME>            
+ </MEMBERNAME>            
+ <DATEOFBIRTH>1974-10-15</DATEOFBIRTH>            
+ <MOBILENO>90000000</MOBILENO>            
+ <PHONENO XSI:NIL="TRUE"/>            
+ <ADDRESS1>BQQGQBBNUCQXVHASVWQ</ADDRESS1>            
+ <ADDRESS2>HLKJJUJTYBPPIVPJITW</ADDRESS2>            
+ <ADDRESS3>VQZXWAAKAILV</ADDRESS3>            
+ <ADDRESS4>JBOEKSJTOBANTMB</ADDRESS4>            
+ <ADDRESS5 XSI:NIL="TRUE"/>            
+ <NATUREOFEMPLOYMENT>REGEE</NATUREOFEMPLOYMENT>            
+ <EMPLOYMENTSTARTDATE>2005-07-22</EMPLOYMENTSTARTDATE>            
+ <LASTEMPLOYMENTDATE XSI:NIL="TRUE"/>            
+ <INTRAGROUPTRANSFER>Y</INTRAGROUPTRANSFER>            
+ <LATEENROLLEDMEMBER>N</LATEENROLLEDMEMBER>            
+ <ENROLLMENTPROCESSINGDATE>2005-09-26</ENROLLMENTPROCESSINGDATE>            
+ <REMARKS XSI:NIL="TRUE"/>            
+ <CONTRIBUTION>                
+ <PERIODSTARTDATE>2018-03-01</PERIODSTARTDATE>                
+ <PERIODENDDATE>2018-03-31</PERIODENDDATE>                
+ <RELEVANTINCOME>0.00</RELEVANTINCOME>                
+ <RELEVANTINCOMEREF XSI:NIL="TRUE"/>                
+ <ONTIMEMCPAID>                    
+ <ONTIMEMCPAIDAMOUNT TYPE="ERSEP">                        
+ <AMOUNT>0.00</AMOUNT>                    
+ </ONTIMEMCPAIDAMOUNT>                    
+ <ONTIMEMCPAIDAMOUNT TYPE="EE">                        
+ <AMOUNT>0.00</AMOUNT>                    
+ </ONTIMEMCPAIDAMOUNT>                    
+ <ONTIMEMCPAIDDATE XSI:NIL="TRUE"/>                
+ </ONTIMEMCPAID>                
+ <LATEMCPAID>                    
+ <LATEMCPAIDAMOUNT TYPE="ERSEP">                        
+ <AMOUNT>0.00</AMOUNT>                    
+ </LATEMCPAIDAMOUNT>                    
+ <LATEMCPAIDAMOUNT TYPE="EE">                        
+ <AMOUNT>0.00</AMOUNT>                    
+ </LATEMCPAIDAMOUNT>                    
+ <LATEMCPAIDDATE XSI:NIL="TRUE"/>                
+ </LATEMCPAID>                
+ <SURCHARGEPAID>                    
+ <SURCHARGEPAIDAMOUNT TYPE="ERSEP">                        
+ <AMOUNT>0.00</AMOUNT>                    
+ </SURCHARGEPAIDAMOUNT>                    
+ <SURCHARGEPAIDAMOUNT TYPE="EE">                        
+ <AMOUNT>0.00</AMOUNT>                    
+ </SURCHARGEPAIDAMOUNT>                    
+ <SURCHARGEPAIDDATE XSI:NIL="TRUE"/>                
+ </SURCHARGEPAID>                
+ <FREQUENCY>CDMTH</FREQUENCY>                
+ <DCREASON>NOPAY</DCREASON>                
+ <ISUNIQUEREFNO XSI:NIL="TRUE"/>                
+ <ISNODAYS XSI:NIL="TRUE"/>                
+ <ISDATERANGEFROM XSI:NIL="TRUE"/>                
+ <ISDATERANGETO XSI:NIL="TRUE"/>                
+ <REMARKS XSI:NIL="TRUE"/>            
+ </CONTRIBUTION>        
+ </MEMBER>        
+ <MEMBER>            
+ <IDENTITY>                
+ <HKID>                    
+ <HKIDNUMBER>O480776</HKIDNUMBER>                    
+ <CHECKDIGIT>7</CHECKDIGIT>                
+ </HKID>            
+ </IDENTITY>            
+ <MEMBERUNIQUEREFNO>SHK-4501866</MEMBERUNIQUEREFNO>            
+ <MEMBERNAME LANG="EN">                
+ <LASTNAME>NPA</LASTNAME>                
+ <FIRSTNAME>NE XXEBA</FIRSTNAME>            
+ </MEMBERNAME>            
+ <MEMBERNAME LANG="CH">                
+ <LASTNAME>CM</LASTNAME>                
+ <FIRSTNAME>R</FIRSTNAME>            
+ </MEMBERNAME>            
+ <DATEOFBIRTH>1975-11-15</DATEOFBIRTH>            
+ <MOBILENO>90000000</MOBILENO>            
+ <PHONENO XSI:NIL="TRUE"/>            
+ <ADDRESS1>DIZBZDJXYVZGNIJLNCVW</ADDRESS1>            
+ <ADDRESS2>LFWAQRXJIICU</ADDRESS2>            
+ <ADDRESS3>EZKEUDTLDHUMSOGNAE</ADDRESS3>            
+ <ADDRESS4>JALATDIGURII</ADDRESS4>            
+ <ADDRESS5 XSI:NIL="TRUE"/>            
+ <NATUREOFEMPLOYMENT>REGEE</NATUREOFEMPLOYMENT>            
+ <EMPLOYMENTSTARTDATE>2006-07-17</EMPLOYMENTSTARTDATE>            
+ <LASTEMPLOYMENTDATE XSI:NIL="TRUE"/>            
+ <INTRAGROUPTRANSFER>Y</INTRAGROUPTRANSFER>            
+ <LATEENROLLEDMEMBER>N</LATEENROLLEDMEMBER>            
+ <ENROLLMENTPROCESSINGDATE>2006-09-27</ENROLLMENTPROCESSINGDATE>            
+ <REMARKS XSI:NIL="TRUE"/>            
+ <CONTRIBUTION>                
+ <PERIODSTARTDATE>2018-03-01</PERIODSTARTDATE>                
+ <PERIODENDDATE>2018-03-31</PERIODENDDATE>                
+ <RELEVANTINCOME>0.00</RELEVANTINCOME>                
+ <RELEVANTINCOMEREF XSI:NIL="TRUE"/>                
+ <ONTIMEMCPAID>                    
+ <ONTIMEMCPAIDAMOUNT TYPE="ERSEP">                        
+ <AMOUNT>0.00</AMOUNT>                    
+ </ONTIMEMCPAIDAMOUNT>                    
+ <ONTIMEMCPAIDAMOUNT TYPE="EE">                        
+ <AMOUNT>0.00</AMOUNT>                    
+ </ONTIMEMCPAIDAMOUNT>                    
+ <ONTIMEMCPAIDDATE XSI:NIL="TRUE"/>                
+ </ONTIMEMCPAID>                
+ <LATEMCPAID>                    
+ <LATEMCPAIDAMOUNT TYPE="ERSEP">                        
+ <AMOUNT>0.00</AMOUNT>                    
+ </LATEMCPAIDAMOUNT>                    
+ <LATEMCPAIDAMOUNT TYPE="EE">                        
+ <AMOUNT>0.00</AMOUNT>                    
+ </LATEMCPAIDAMOUNT>                    
+ <LATEMCPAIDDATE XSI:NIL="TRUE"/>                
+ </LATEMCPAID>                
+ <SURCHARGEPAID>                    
+ <SURCHARGEPAIDAMOUNT TYPE="ERSEP">                        
+ <AMOUNT>0.00</AMOUNT>                    
+ </SURCHARGEPAIDAMOUNT>                    
+ <SURCHARGEPAIDAMOUNT TYPE="EE">                        
+ <AMOUNT>0.00</AMOUNT>                    
+ </SURCHARGEPAIDAMOUNT>                    
+ <SURCHARGEPAIDDATE XSI:NIL="TRUE"/>                
+ </SURCHARGEPAID>                
+ <FREQUENCY>CDMTH</FREQUENCY>                
+ <DCREASON>NOPAY</DCREASON>                
+ <ISUNIQUEREFNO XSI:NIL="TRUE"/>                
+ <ISNODAYS XSI:NIL="TRUE"/>                
+ <ISDATERANGEFROM XSI:NIL="TRUE"/>                
+ <ISDATERANGETO XSI:NIL="TRUE"/>                
+ <REMARKS XSI:NIL="TRUE"/>            
+ </CONTRIBUTION>        
+ </MEMBER>        
+ <MEMBER>            
+ <IDENTITY>                
+ <HKID>                    
+ <HKIDNUMBER>C208548</HKIDNUMBER>                    
+ <CHECKDIGIT>6</CHECKDIGIT>                
+ </HKID>            
+ </IDENTITY>            
+ <MEMBERUNIQUEREFNO>SHK-419861</MEMBERUNIQUEREFNO>            
+ <MEMBERNAME LANG="EN">                
+ <LASTNAME>NVA</LASTNAME>                
+ <FIRSTNAME>NTP AX BNUAAR</FIRSTNAME>            
+ </MEMBERNAME>            
+ <MEMBERNAME LANG="CH">                
+ <LASTNAME>TH</LASTNAME>                
+ <FIRSTNAME>E</FIRSTNAME>            
+ </MEMBERNAME>            
+ <DATEOFBIRTH>1968-08-28</DATEOFBIRTH>            
+ <MOBILENO>60000000</MOBILENO>            
+ <PHONENO XSI:NIL="TRUE"/>            
+ <ADDRESS1>WTXKCIWJZXVMVRXATW</ADDRESS1>            
+ <ADDRESS2>OIBTNXZGWTIZ</ADDRESS2>            
+ <ADDRESS3>YCXBATKZSKJSBCFT</ADDRESS3>            
+ <ADDRESS4 XSI:NIL="TRUE"/>            
+ <ADDRESS5 XSI:NIL="TRUE"/>            
+ <NATUREOFEMPLOYMENT>REGEE</NATUREOFEMPLOYMENT>            
+ <EMPLOYMENTSTARTDATE>2006-08-10</EMPLOYMENTSTARTDATE>            
+ <LASTEMPLOYMENTDATE XSI:NIL="TRUE"/>            
+ <INTRAGROUPTRANSFER>Y</INTRAGROUPTRANSFER>            
+ <LATEENROLLEDMEMBER>N</LATEENROLLEDMEMBER>            
+ <ENROLLMENTPROCESSINGDATE>2006-10-26</ENROLLMENTPROCESSINGDATE>            
+ <REMARKS XSI:NIL="TRUE"/>            
+ <CONTRIBUTION>                
+ <PERIODSTARTDATE>2018-03-01</PERIODSTARTDATE>                
+ <PERIODENDDATE>2018-03-31</PERIODENDDATE>                
+ <RELEVANTINCOME>0.00</RELEVANTINCOME>                
+ <RELEVANTINCOMEREF XSI:NIL="TRUE"/>                
+ <ONTIMEMCPAID>                    
+ <ONTIMEMCPAIDAMOUNT TYPE="ERSEP">                        
+ <AMOUNT>0.00</AMOUNT>                    
+ </ONTIMEMCPAIDAMOUNT>                    
+ <ONTIMEMCPAIDAMOUNT TYPE="EE">                        
+ <AMOUNT>0.00</AMOUNT>                    
+ </ONTIMEMCPAIDAMOUNT>                    
+ <ONTIMEMCPAIDDATE XSI:NIL="TRUE"/>                
+ </ONTIMEMCPAID>                
+ <LATEMCPAID>                    
+ <LATEMCPAIDAMOUNT TYPE="ERSEP">                        
+ <AMOUNT>0.00</AMOUNT>                    
+ </LATEMCPAIDAMOUNT>                    
+ <LATEMCPAIDAMOUNT TYPE="EE">                        
+ <AMOUNT>0.00</AMOUNT>                    
+ </LATEMCPAIDAMOUNT>                    
+ <LATEMCPAIDDATE XSI:NIL="TRUE"/>                
+ </LATEMCPAID>                
+ <SURCHARGEPAID>                    
+ <SURCHARGEPAIDAMOUNT TYPE="ERSEP">                        
+ <AMOUNT>0.00</AMOUNT>                    
+ </SURCHARGEPAIDAMOUNT>                    
+ <SURCHARGEPAIDAMOUNT TYPE="EE">                        
+ <AMOUNT>0.00</AMOUNT>                    
+ </SURCHARGEPAIDAMOUNT>                    
+ <SURCHARGEPAIDDATE XSI:NIL="TRUE"/>                
+ </SURCHARGEPAID>                
+ <FREQUENCY>CDMTH</FREQUENCY>                
+ <DCREASON>NOPAY</DCREASON>                
+ <ISUNIQUEREFNO XSI:NIL="TRUE"/>                
+ <ISNODAYS XSI:NIL="TRUE"/>                
+ <ISDATERANGEFROM XSI:NIL="TRUE"/>                
+ <ISDATERANGETO XSI:NIL="TRUE"/>                
+ <REMARKS XSI:NIL="TRUE"/>            
+ </CONTRIBUTION>        
+ </MEMBER>        
+ <MEMBER>            
+ <IDENTITY>                
+ <HKID>                    
+ <HKIDNUMBER>H645743</HKIDNUMBER>                    
+ <CHECKDIGIT>8</CHECKDIGIT>                
+ </HKID>            
+ </IDENTITY>            
+ <MEMBERUNIQUEREFNO>SHK-398284</MEMBERUNIQUEREFNO>            
+ <MEMBERNAME LANG="EN">                
+ <LASTNAME>ZN</LASTNAME>                
+ <FIRSTNAME>NTA AXB</FIRSTNAME>            
+ </MEMBERNAME>            
+ <MEMBERNAME LANG="CH">                
+ <LASTNAME>MT</LASTNAME>                
+ <FIRSTNAME>A</FIRSTNAME>            
+ </MEMBERNAME>            
+ <DATEOFBIRTH>1978-06-17</DATEOFBIRTH>            
+ <MOBILENO>90000000</MOBILENO>            
+ <PHONENO XSI:NIL="TRUE"/>            
+ <ADDRESS1>HYYZNAASXVNFQIYSS</ADDRESS1>            
+ <ADDRESS2>CYRKLHJOOHMFJT</ADDRESS2>            
+ <ADDRESS3>OVMJLDRNERJ</ADDRESS3>            
+ <ADDRESS4 XSI:NIL="TRUE"/>            
+ <ADDRESS5 XSI:NIL="TRUE"/>            
+ <NATUREOFEMPLOYMENT>REGEE</NATUREOFEMPLOYMENT>            
+ <EMPLOYMENTSTARTDATE>2011-10-18</EMPLOYMENTSTARTDATE>            
+ <LASTEMPLOYMENTDATE XSI:NIL="TRUE"/>            
+ <INTRAGROUPTRANSFER>Y</INTRAGROUPTRANSFER>            
+ <LATEENROLLEDMEMBER>N</LATEENROLLEDMEMBER>            
+ <ENROLLMENTPROCESSINGDATE>2011-12-30</ENROLLMENTPROCESSINGDATE>            
+ <REMARKS XSI:NIL="TRUE"/>            
+ <CONTRIBUTION>                
+ <PERIODSTARTDATE>2018-03-01</PERIODSTARTDATE>                
+ <PERIODENDDATE>2018-03-31</PERIODENDDATE>                
+ <RELEVANTINCOME>0.00</RELEVANTINCOME>                
+ <RELEVANTINCOMEREF XSI:NIL="TRUE"/>               
+ <ONTIMEMCPAID>                    
+ <ONTIMEMCPAIDAMOUNT TYPE="ERSEP">                        
+ <AMOUNT>0.00</AMOUNT>                   
+ </ONTIMEMCPAIDAMOUNT>                    
+ <ONTIMEMCPAIDAMOUNT TYPE="EE">                        
+ <AMOUNT>0.00</AMOUNT>                    
+ </ONTIMEMCPAIDAMOUNT>                    
+ <ONTIMEMCPAIDDATE XSI:NIL="TRUE"/>                
+ </ONTIMEMCPAID>                
+ <LATEMCPAID>                    
+ <LATEMCPAIDAMOUNT TYPE="ERSEP">                        
+ <AMOUNT>0.00</AMOUNT>                   
+ </LATEMCPAIDAMOUNT>                    
+ <LATEMCPAIDAMOUNT TYPE="EE">                        
+ <AMOUNT>0.00</AMOUNT>                    
+ </LATEMCPAIDAMOUNT>                    
+ <LATEMCPAIDDATE XSI:NIL="TRUE"/>                
+ </LATEMCPAID>                
+ <SURCHARGEPAID>                    
+ <SURCHARGEPAIDAMOUNT TYPE="ERSEP">                        
+ <AMOUNT>0.00</AMOUNT>                    
+ </SURCHARGEPAIDAMOUNT>                    
+ <SURCHARGEPAIDAMOUNT TYPE="EE">                        
+ <AMOUNT>0.00</AMOUNT>                    
+ </SURCHARGEPAIDAMOUNT>                    
+ <SURCHARGEPAIDDATE XSI:NIL="TRUE"/>                
+ </SURCHARGEPAID>                
+ <FREQUENCY>CDMTH</FREQUENCY>                
+ <DCREASON>NOPAY</DCREASON>                
+ <ISUNIQUEREFNO XSI:NIL="TRUE"/>                
+ <ISNODAYS XSI:NIL="TRUE"/>                
+ <ISDATERANGEFROM XSI:NIL="TRUE"/>                
+ <ISDATERANGETO XSI:NIL="TRUE"/>                
+ <REMARKS XSI:NIL="TRUE"/>            
+ </CONTRIBUTION>        
+ </MEMBER> 
+</ER> 
+</PARENT>
